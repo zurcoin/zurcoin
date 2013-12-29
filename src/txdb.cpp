@@ -6,6 +6,9 @@
 #include "txdb.h"
 #include "main.h"
 #include "hash.h"
+#include "boost/filesystem.hpp"
+#include "boost/filesystem/operations.hpp"
+#include "boost/filesystem/path.hpp"
 
 using namespace std;
 

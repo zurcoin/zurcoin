@@ -1,12 +1,13 @@
 TEMPLATE = app
-TARGET = quarkcoin-qt
-macx:TARGET = "Quarkcoin-Qt"
-VERSION = 0.8.3
+TARGET = zurcoin-qt
+macx:TARGET = "ZurCoin-Qt"
+VERSION = 1
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 CONFIG += no_include_pwd
 CONFIG += thread
+CONFIG += static
 
 # for boost 1.37, add -mt to the boost libraries
 # use: qmake BOOST_LIB_SUFFIX=-mt
@@ -16,6 +17,9 @@ CONFIG += thread
 
 # Dependency library locations can be customized with:
 #    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH,
+# Change according to your boost installation
+BOOST_INCLUDE_PATH=/usr/local/include/boost
+BOOST_LIB_PATH=/usr/local/lib
 #    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively
 
 OBJECTS_DIR = build

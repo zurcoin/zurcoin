@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2013 Quarkcoin developers
+// Copyright (c) 2013 Zurcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -1192,29 +1192,7 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"seed1.qrk.cc", "seed1.qrk.cc"},
-    {"seed2.qrk.cc", "seed2.qrk.cc"},
-    {"seed3.qrk.cc", "seed3.qrk.cc"},
-    {"seed4.qrk.cc", "seed4.qrk.cc"},
-    {"seed5.qrk.cc", "seed5.qrk.cc"},
-    {"seed6.qrk.cc", "seed6.qrk.cc"},
-    {"seed1.qrkcoin.org", "seed1.qrkcoin.org"},
-    {"seed2.qrkcoin.org", "seed2.qrkcoin.org"},
-    {"seed3.qrkcoin.org", "seed3.qrkcoin.org"},
-    {"seed4.qrkcoin.org", "seed4.qrkcoin.org"},
-    {"seed5.qrkcoin.org", "seed5.qrkcoin.org"},
-    {"seed6.qrkcoin.org", "seed6.qrkcoin.org"},
-    {"seed1.quarkinvest.info", "seed1.quarkinvest.info"},
-    {"seed2.quarkinvest.info", "seed2.quarkinvest.info"},
-    {"seed3.quarkinvest.info", "seed3.quarkinvest.info"},
-    {"seed4.quarkinvest.info", "seed4.quarkinvest.info"},
-    {"seed5.quarkinvest.info", "seed5.quarkinvest.info"},
-    {"seed6.quarkinvest.info", "seed6.quarkinvest.info"},
-    {"quarkcoin.no-ip.biz", "quarkcoin.no-ip.biz"},
-    {"quarkcoin.mooo.com", "quarkcoin.mooo.com"},
-    {"qrk.ignorelist.com", "qrk.ignorelist.com"},
-    {"qrk.redirectme.net", "qrk.redirectme.net"},
-    {"qrk.no-ip.biz", "qrk.no-ip.biz"},
+    {"nisui.dream.org.il", "nisui.dream.org.il"},
     {NULL, NULL}
 };
 

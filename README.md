@@ -1,8 +1,9 @@
-Quarkcoin 0.8.3 BETA
+Zurcoin 0.8.3 BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013 Quarkcoin Developers
+Copyright (c) 2013 Zurcoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -13,7 +14,7 @@ sphlib 3.0 by Thomas Pornin.
 
 Intro
 ---------------------
-Quarkcoin is a free open source peer-to-peer electronic cash system that is
+Zurcoin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -21,7 +22,7 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the Qt4 run-time libraries to run Quarkcoin-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run Zurcoin-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
 
 
@@ -36,3 +37,7 @@ Other Pages
 - [Multiwallet Qt Development](multiwallet-qt.md)
 - [Unit Tests](unit-tests.md)
 - [Translation Process](translation_process.md)
+
+Note
+------
+Dan we love you
