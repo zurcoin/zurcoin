@@ -35,7 +35,7 @@ unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 uint256 hashGenesisBlock("0x000009deef0030ec4c0fad03455473d4d4b535bf037e37b7c41b54ffb50ec0be");
-static const unsigned int timeGenesisBlock = 1388260981;
+static const unsigned int timeGenesisBlock = 1388423520;
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
