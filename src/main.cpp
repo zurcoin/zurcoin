@@ -1096,9 +1096,9 @@ static const int64 nGenesisBlockRewardCoin = 1 * COIN;
 static const int64 nBlockRewardStartCoin = 42 * COIN;
 static const int64 nBlockRewardMinimumCoin = 0;
 
-static const int64 nTargetTimespan = 60 * 5 ; // 5 minutes
-static const int64 nTargetSpacing = 42; // 42 seconds
-static const int64 nInterval = nTargetTimespan / nTargetSpacing;
+static const int64 nTargetTimespan = 42 * 7 ; 
+static const int64 nTargetSpacing = 42; 
+static const int64 nInterval = nTargetTimespan / nTargetSpacing; //every 7 blocks
 
 int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
 {
