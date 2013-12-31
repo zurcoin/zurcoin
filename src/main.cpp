@@ -34,8 +34,8 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x000dad9e68c22a074f114aa3c29d61e82318a3dd1596311648eeb08961cf8e82");
-static const unsigned int timeGenesisBlock = 1388466762;
+uint256 hashGenesisBlock("0x000f614d69422c56442d76d739f3246f976910bd0baedcb6528693af252e5054");
+static const unsigned int timeGenesisBlock = 1388470437;
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 10);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -1186,7 +1186,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
     // Limit adjustment step
     int64 nActualTimespan = pindexLast->GetBlockTime() - pindexFirst->GetBlockTime();
     printf("  nActualTimespan = %"PRI64d"  before bounds\n", nActualTimespan);
-    int64 LimUp = nTargetTimespan * 100 / 200; // 200% up
+    int64 LimUp = nTargetTimespan * 100 / 120;
     int64 LimDown = nTargetTimespan * 2; // 200% down
     if (nActualTimespan < LimUp)
         nActualTimespan = LimUp;
@@ -2782,7 +2782,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0x1A;
         pchMessageStart[2] = 0x39;
         pchMessageStart[3] = 0xF7;
-        hashGenesisBlock = uint256("0x000dad9e68c22a074f114aa3c29d61e82318a3dd1596311648eeb08961cf8e82");
+        hashGenesisBlock = uint256("0x000f614d69422c56442d76d739f3246f976910bd0baedcb6528693af252e5054");
     }
 
     //
