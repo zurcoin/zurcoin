@@ -34,9 +34,9 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x000009deef0030ec4c0fad03455473d4d4b535bf037e37b7c41b54ffb50ec0be");
-static const unsigned int timeGenesisBlock = 1388423520;
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
+uint256 hashGenesisBlock("0x000dad9e68c22a074f114aa3c29d61e82318a3dd1596311648eeb08961cf8e82");
+static const unsigned int timeGenesisBlock = 1388466762;
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 10);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 uint256 nBestChainWork = 0;
@@ -1096,9 +1096,9 @@ static const int64 nGenesisBlockRewardCoin = 1 * COIN;
 static const int64 nBlockRewardStartCoin = 42 * COIN;
 static const int64 nBlockRewardMinimumCoin = 0;
 
-static const int64 nTargetTimespan = 42 * 7 ; 
+static const int64 nTargetTimespan = 42 * 14 ; 
 static const int64 nTargetSpacing = 42; 
-static const int64 nInterval = nTargetTimespan / nTargetSpacing; //every 7 blocks
+static const int64 nInterval = nTargetTimespan / nTargetSpacing; //every 14 blocks?
 
 int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
 {
@@ -1109,7 +1109,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
     
     int64 nSubsidy = nBlockRewardStartCoin;
 
-    // Subsidy is cut in half every 31536000 blocks (42 years)
+    // Subsidy is cut in half every 31536000 blocks
     nSubsidy >>= (nHeight / 31536000 );
     
     // Minimum subsidy
@@ -1186,7 +1186,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
     // Limit adjustment step
     int64 nActualTimespan = pindexLast->GetBlockTime() - pindexFirst->GetBlockTime();
     printf("  nActualTimespan = %"PRI64d"  before bounds\n", nActualTimespan);
-    int64 LimUp = nTargetTimespan * 100 / 50; // 50% up
+    int64 LimUp = nTargetTimespan * 100 / 200; // 200% up
     int64 LimDown = nTargetTimespan * 2; // 200% down
     if (nActualTimespan < LimUp)
         nActualTimespan = LimUp;
@@ -2782,7 +2782,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0x1A;
         pchMessageStart[2] = 0x39;
         pchMessageStart[3] = 0xF7;
-        hashGenesisBlock = uint256("0x000009deef0030ec4c0fad03455473d4d4b535bf037e37b7c41b54ffb50ec0be");
+        hashGenesisBlock = uint256("0x000dad9e68c22a074f114aa3c29d61e82318a3dd1596311648eeb08961cf8e82");
     }
 
     //
@@ -2830,13 +2830,13 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
 */
 
         // Genesis block
-        const char* pszTimestamp = "Sat Dec 28 21:44:14 IST 2013 Zurcoin";
+        const char* pszTimestamp = "Sat Dec 31 IST 2013 Zurcoin crypto";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].nValue = nGenesisBlockRewardCoin;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("016783fdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
         CBlock block;
         block.vtx.push_back(txNew);
         block.hashPrevBlock = 0;
@@ -2844,7 +2844,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
         block.nVersion = 112;
         block.nTime    = timeGenesisBlock;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 328743;
+        block.nNonce   = 29384099;
 
         if (fTestNet)
         {
@@ -2863,7 +2863,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
         block.print();
-        assert(block.hashMerkleRoot == uint256("0x81a52551490ca306500d07ec151b5da41d845a33648418cdac5006ac1c882fef"));
+        assert(block.hashMerkleRoot == uint256("0x16a894b2edb89eb12486bd9534f1a95d9e721c0a92f978d820ccff84354d3bf1"));
         assert(hash == hashGenesisBlock);
 
         // Start new block file
