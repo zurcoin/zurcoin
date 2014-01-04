@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>About Zur</string>
+   <string>About Zurcoin</string>
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
@@ -91,7 +91,7 @@
         <cursorShape>IBeamCursor</cursorShape>
        </property>
        <property name="text">
-        <string notr="true">Copyright &amp;copy; 2009-YYYY The Bitcoin Developers, 2013 The Zur Developers</string>
+        <string notr="true">Copyright &amp;copy; 2009-YYYY The Bitcoin Developers, 2013 The Quarkcoin Developers, 2013 The Zur Developers</string>
        </property>
        <property name="textFormat">
         <enum>Qt::RichText</enum>
@@ -108,11 +108,23 @@
        </property>
        <property name="text">
         <string>
+Thanks for Quarkcoin for the secure hashining algorithm and great innovation
+
+Zurcoin created for friends, based on quark algorithm - allows CPU mining
+
 This is experimental software. For more information visit: http://www.qrk.cc
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard, and sphlib 3.0 by Thomas Pornin.</string>
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard, and sphlib 3.0 by Thomas Pornin.
+
+Note -
+
+Dan, we love you and miss
+
+</string>
+
+
        </property>
        <property name="wordWrap">
         <bool>true</bool>
