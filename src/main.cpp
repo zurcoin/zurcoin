@@ -1111,7 +1111,9 @@ int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
     int64 nSubsidy = nBlockRewardStartCoin;
 
     // Subsidy is cut in half every 31536000 blocks
-    nSubsidy >>= (nHeight / 31536000 );
+    // nSubsidy >>= (nHeight / 31536000 );
+    // changed to create deflation
+     nSubsidy >>= (nHeight / 1500000 );
     
     // Minimum subsidy
     if (nSubsidy < nBlockRewardMinimumCoin)
