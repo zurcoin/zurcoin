@@ -75,7 +75,7 @@ double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
 
 // Settings
-int64 nTransactionFee = 0;
+int64 nTransactionFee = 100;
 
 
 
