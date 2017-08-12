@@ -12,8 +12,8 @@ class CBlockHeader;
 class CBlockIndex;
 class uint256;
 
-static const int64_t nTargetTimespan = 10 * 60; // 10 minutes
-static const int64_t nTargetSpacing = 30; // 30 seconds
+static const int64_t nTargetTimespan = 14 * 42;
+static const int64_t nTargetSpacing = 42;
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing; // 20 blocks
 
 unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHeader *pblock);

@@ -50,7 +50,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
     // Limit adjustment step
     int64_t nActualTimespan = pindexLast->GetBlockTime() - pindexFirst->GetBlockTime();
     LogPrintf("  nActualTimespan = %d before bounds\n", nActualTimespan);
-    int64_t LimUp = nTargetTimespan * 100 / 110; // 110% up
+    int64_t LimUp = nTargetTimespan * 100 / 120; // 110% up
     int64_t LimDown = nTargetTimespan * 2; // 200% down
     if (nActualTimespan < LimUp)
         nActualTimespan = LimUp;
