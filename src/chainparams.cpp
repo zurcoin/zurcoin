@@ -45,13 +45,13 @@ static void convertSeed6(std::vector<CAddress> &vSeedsOut, const SeedSpec6 *data
     }
 }
 
-static const unsigned int timeMainGenesisBlock = 1374408079;
-uint256 hashMainGenesisBlock("0x00000c257b93a36e9a4318a64398d661866341331a984e2b486414fc5bb16ccd");
-static uint256 nMainProofOfWorkLimit(~uint256(0) >> 20);
+static const unsigned int timeMainGenesisBlock = 1388470437;
+uint256 hashMainGenesisBlock("0x000f614d69422c56442d76d739f3246f976910bd0baedcb6528693af252e5054");
+static uint256 nMainProofOfWorkLimit(~uint256(0) >> 10);
 
 static const int64_t nGenesisBlockRewardCoin = 1 * COIN;
-static const int64_t nBlockRewardStartCoin = 2048 * COIN;
-static const int64_t nBlockRewardMinimumCoin = 1 * COIN;
+static const int64_t nBlockRewardStartCoin = 42 * COIN;
+static const int64_t nBlockRewardMinimumCoin = 0 * COIN;
 
 /**
  * What makes a good checkpoint block?
@@ -62,40 +62,16 @@ static const int64_t nBlockRewardMinimumCoin = 1 * COIN;
  */
 static Checkpoints::MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        (      0, uint256("0x00000c257b93a36e9a4318a64398d661866341331a984e2b486414fc5bb16ccd"))
-        (  41056, uint256("0x000000001f12305bf0443551030d9f18c5d7b1a6b7eb8e899b1b26fc45924ade"))
-        (  81847, uint256("0x00000000c164428877cd4d46e2facc881b6b0a803e44a02c1f3b279ae7d58c32"))
-        ( 308484, uint256("0x000000016bd2ef95ae4a456c6114cd7736a4219de5b75b2139c840650144e143"))
-        ( 380481, uint256("0x00000003064d1fdbe86f35bfce8c54f88a80ef773e820ca86ae820ed6c4defcc"))
-        ( 404998, uint256("0x000000004a815d04f437dd83d84866a8a07865f5b47030668a8096df0615361f"))
-        ( 411932, uint256("0x000000001f3c7ec7251ebc1670fb3f772b42e25356fa02468c02c89199617cd5"))
-        ( 423094, uint256("0x0000000007001e561197a35026b7c9bbaf0b9a1c918a41d9e7d638e44459f116"))
-        ( 443157, uint256("0x000000000b103e119485969439ab2203b5578be3fb8b3aab512ebebaca1bce81"))
-        ( 458433, uint256("0x000000000318a428560180bb8166321a6b20ae78fc0a9b3c560d30476859b2b5"))
-        ( 464836, uint256("0x00000000079e9a16f173bf610f2ceddc5659aa7e9df2366dea01e346c37f9692"))
-        ( 467282, uint256("0x0000000004a17401913be0aa29af7ace3335d58a846938d4fee0c749e4828d1d"))
-        ( 473033, uint256("0x000000000515c71eb7c3de0574d5f6c632d8de9053c626aba22ae3a9eff67e9c"))
-        ( 538178, uint256("0x000000000a13e56dc5d7962d4e3a852ff24055aa15096085d8173faf95172f4d"))
-        ( 621138, uint256("0x0000000016a7d31cabbc6257c53d3b58f82f1a897d79066dabcb5ce5b031f8ca"))
-        ( 714001, uint256("0x000000001d2b41db149991d5e01aee448042de6ac94e12c5ae6299e4fb129f5a"))
-        ( 797370, uint256("0x000000001b24a2f70ce1e50c19d5f3dd77fbd6e0f0a3eb61b95ceaafb8435636"))
-        ( 895901, uint256("0x0000000016db7c64fb4bb6475fbb06dca656d32b7864a2d045612660106d411c"))
-        ( 972235, uint256("0x000000004e92bead093b946351cd2e7125d23e36042687497561db00a77b6ae8"))
-        (1161321, uint256("0x000000001f0e7c685ceaf5c5b04b1ebed2a1d8d588715ef6f6877af0015a6f2c"))
-        (1620970, uint256("0x0000000091dd05190ee8abb2fd4a946938ccd6401d16406e417546e19d2165ab"))
-        (2046709, uint256("0x000000007f6f146dbe428b0e277847889921d362844d52ade87049839711e026"))
-        (2356006, uint256("0x00000000f6b58b63543b61032c677fa133e6d6783b2096c587068a233377e91a"))
-        (2434772, uint256("0x0000000017564063a7ceec746f5cfb95d8f7803b1309a505a617d82ba2d3abbd"))
-        (2437394, uint256("0x00000000dfcafbaa8c160fd07ab80e44660ceccd12d760b8b5fe6ab1aeec52d6"))
-        (3235865, uint256("0x000000010f18f93a614a12dfe936319f52aa447f752836f4fa896310741dd32b"))
-        (4101607, uint256("0x00000000228a00758187ef66622ca31893c2614a053e2e46efd955222d7fdf57"))
-        (4223071, uint256("0x000000010f385d545029761683a3063c554e5f127a44e1cda99c9909ea4ff549"))
-        (4256000, uint256("0x0000000024cfefc26f5c55f04e78a27816081b29b3fd0cb4ff812032bf95befd "))
+        (      0  , uint256("0x000dad9e68c22a074f114aa3c29d61e82318a3dd1596311648eeb08961cf8e82"))
+        (  22636  , uint256("0x000000315192fba149a72d6e1e2fa95f2fd2d6b71b79dba568d54a117674c5e3"))
+        (  243039 , uint256("0x0000002a7fe3bdd117362594de1040eaa45694854129d01c8d5f287270504629"))
+        (  1260275, uint256("0x000003c9b0d0946fcb54177c363f68b94e276f2928f476f64377d61d5b90b3dc"))
+        (  2405725, uint256("0x00000000008679cc79973ccde99c40fd8909a88c786e05a124ebd352a24a91e7"))
         ;
 static const Checkpoints::CCheckpointData data = {
         &mapCheckpoints,
-        1493621657, // * UNIX timestamp of last checkpoint block
-        5076713,    // * total number of transactions between genesis and last checkpoint
+        1502354823, // * UNIX timestamp of last checkpoint block
+        2465391,    // * total number of transactions between genesis and last checkpoint
                     //   (the tx=... number in the SetBestChain debug.log lines)
         2880.0      // * estimated number of transactions per day after checkpoint
     };
@@ -136,60 +112,47 @@ public:
         pchMessageStart[1] = 0xa5;
         pchMessageStart[2] = 0x03;
         pchMessageStart[3] = 0xdd;
+        //the message start is same as quarkcoin... sorry about that. it doesn't matter and genesis is different.
+
         vAlertPubKey = ParseHex("0493e6dc310a0e444cfb20f3234a238f77699806d47909a42481010c5ce68ff04d3babc959cd037bd3aa6ded929f2b9b4aa2f626786cd7f8495e5bb61e9cfebbc4");
-        nDefaultPort = 11973;
+        //todo: generate and set new alert key for zurcoin
+
+        nDefaultPort = 18071;
         bnProofOfWorkLimit = nMainProofOfWorkLimit;
-        nSubsidyHalvingInterval = 60480;
+        nSubsidyHalvingInterval = 1500000;
         nEnforceBlockUpgradeMajority = 7500;
         nRejectBlockOutdatedMajority = 9000;
         nToCheckBlockUpgradeMajority = 10000;
         nMinerThreads = 0;
-        nTargetTimespan = 10 * 60; // ten minutes
-        nTargetSpacing = 30; // 30 seconds
+        nTargetTimespan = 14 * 42; // ten minutes
+        nTargetSpacing = 42; // 30 seconds
         nMaxTipAge = 24 * 60 * 60;
 
-        /**
-         * Build the genesis block. Note that the output of the genesis coinbase cannot
-         * be spent as it did not originally exist in the database.
-         *
-         * CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=4a5e1e, nTime=1231006505, nBits=1d00ffff, nNonce=2083236893, vtx=1)
-         *   CTransaction(hash=4a5e1e, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-         *     CTxIn(COutPoint(000000, -1), coinbase 04ffff001d0104455468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6e206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73)
-         *     CTxOut(nValue=50.00000000, scriptPubKey=0x5F1DF16B2B704C8A578D0B)
-         *   vMerkleTree: 4a5e1e
-         */
-        const char* pszTimestamp = "21 July 2013, The Guardian, Tesco boss says cheap food era is over";
+        const char* pszTimestamp = "Sat Dec 31 IST 2013 Zurcoin crypto";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CScriptNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].nValue = nGenesisBlockRewardCoin;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("016783fdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 112;
         genesis.nTime    = timeMainGenesisBlock;
         genesis.nBits    = nMainProofOfWorkLimit.GetCompact();
-        genesis.nNonce   = 12058113;
+        genesis.nNonce   = 29386752;
 
-        assert(genesis.hashMerkleRoot == uint256("0x868b2fb28cb1a0b881480cc85eb207e29e6ae75cdd6d26688ed34c2d2d23c776"));
+        assert(genesis.hashMerkleRoot == uint256("0x16a894b2edb89eb12486bd9534f1a95d9e721c0a92f978d820ccff84354d3bf1"));
 
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == hashMainGenesisBlock);
 
-        vSeeds.push_back(CDNSSeedData("seed1.qrknet.info", "seed1.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed2.qrknet.info", "seed2.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed3.qrknet.info", "seed3.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed4.qrknet.info", "seed4.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed5.qrknet.info", "seed5.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed6.qrknet.info", "seed6.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed7.qrknet.info", "seed7.qrknet.info"));
-        vSeeds.push_back(CDNSSeedData("seed8.qrknet.info", "seed8.qrknet.info"));
+        vSeeds.push_back(CDNSSeedData("50.116.55.60", "50.116.55.60"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(58);
+        base58Prefixes[PUBKEY_ADDRESS] = list_of(69);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(9);
-        base58Prefixes[SECRET_KEY] =     list_of(186);
+        base58Prefixes[SECRET_KEY] =     list_of(197);
         base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x88)(0xB2)(0x1E);
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x88)(0xAD)(0xE4);
 
