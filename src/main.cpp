@@ -73,7 +73,7 @@ static void CheckBlockIndex();
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Quark Signed Message:\n";
+const string strMessageMagic = "Zurcoin Signed Message:\n";
 
 // Internal stuff
 namespace {
