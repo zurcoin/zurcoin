@@ -3,13 +3,13 @@ Description=Bitcoin's distributed currency daemon
 After=network.target
 
 [Service]
-User=quark
-Group=quark
+User=zur
+Group=zur
 
 Type=forking
-PIDFile=/var/lib/quarkd/quarkd.pid
-ExecStart=/usr/bin/quarkd -daemon -pid=/var/lib/quarkd/quarkd.pid \
--conf=/etc/quark/quarkcoin.conf -datadir=/var/lib/quarkd -disablewallet
+PIDFile=/var/lib/zurd/zurd.pid
+ExecStart=/usr/bin/zurd -daemon -pid=/var/lib/zurd/zurd.pid \
+-conf=/etc/zur/zurcoin.conf -datadir=/var/lib/zurd -disablewallet
 
 Restart=always
 PrivateTmp=true

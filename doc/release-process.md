@@ -58,7 +58,7 @@ Release Process
 
   Only missing files will be fetched, so this is safe to re-run for each build.
 
-###Build Quark Core for Linux, Windows, and OS X:
+###Build Zur Core for Linux, Windows, and OS X:
 
 	./bin/gbuild --commit bitcoin=v${VERSION} ../bitcoin/contrib/gitian-descriptors/gitian-linux.yml
 	./bin/gsign --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../bitcoin/contrib/gitian-descriptors/gitian-linux.yml
@@ -136,14 +136,14 @@ rm SHA256SUMS
 
 - Update bitcoin.org version
 
-  - First, check to see if the Quark.org maintainers have prepared a
+  - First, check to see if the Zur.org maintainers have prepared a
     release: https://github.com/bitcoin/bitcoin.org/labels/Releases
 
       - If they have, it will have previously failed their Travis CI
         checks because the final release files weren't uploaded.
         Trigger a Travis CI rebuild---if it passes, merge.
 
-  - If they have not prepared a release, follow the Quark.org release
+  - If they have not prepared a release, follow the Zur.org release
     instructions: https://github.com/bitcoin/bitcoin.org#release-notes
 
   - After the pull request is merged, the website will automatically show the newest version within 15 minutes, as well
@@ -153,11 +153,11 @@ rm SHA256SUMS
 
   - Release sticky on bitcointalk: https://bitcointalk.org/index.php?board=1.0
 
-  - Quark-development mailing list
+  - Zur-development mailing list
 
   - Update title of #bitcoin on Freenode IRC
 
-  - Optionally reddit /r/Quark, ... but this will usually sort out itself
+  - Optionally reddit /r/Zur, ... but this will usually sort out itself
 
 - Notify BlueMatt so that he can start building [https://launchpad.net/~bitcoin/+archive/ubuntu/bitcoin](the PPAs)
 

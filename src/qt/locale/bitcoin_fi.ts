@@ -66,12 +66,12 @@
         <translation>Vastaanottava osoite</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun Quark osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun Zur osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun Quark-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun Zur-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI QUARKISI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI ZURISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Anna salauslause lompakkoon. &lt;br/&gt;Ole hyvä ja käytä lausetta jossa on &lt;b&gt;kymmenen tai enemmän satunnaista merkkiä&lt;/b&gt; tai &lt;b&gt;kahdeksan tai useampi sanaa&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core ohjelma</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core ohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Ladataan lohkoindeksiä...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Lähetä kolikoita Quark-osoitteeseen</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Lähetä kolikoita Zur-osoitteeseen</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Muuta Quarkin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Muuta Zurin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>Varmista &amp;viesti...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Näytä tietoja Quark Core:sta</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Näytä tietoja Zur Core:sta</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -360,19 +360,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Quark-ikkuna</translation>
+        <translation>Näytä tai piilota Zur-ikkuna</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Suojaa yksityiset avaimet, jotka kuuluvat lompakkoosi</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Quark -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Zur -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Quark -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Zur -osoitteella</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark-ydin</translation>
+        <source>Zur Core</source>
+        <translation>Zur-ydin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja quark: URIt)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja zur: URIt)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;Tietoja Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;Tietoja Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Avaa quark: URI tai maksupyyntö</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Avaa zur: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Näytä Quark Core ohjeet saadaksesi listan mahdollisista Quarkin komentorivivalinnoista</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Näytä Zur Core ohjeet saadaksesi listan mahdollisista Zurin komentorivivalinnoista</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktiivinen yhteys Quark-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Quark-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktiivinen yhteys Zur-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Zur-verkkoon</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -787,8 +787,8 @@ Osoite: %4</translation>
         <translation>Osoite "%1" on jo osoitekirjassa.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Antamasi osoite "%1" ei ole validi Quark-osoite.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Antamasi osoite "%1" ei ole validi Zur-osoite.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -825,8 +825,8 @@ Osoite: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark-ydin</translation>
+        <source>Zur Core</source>
+        <translation>Zur-ydin</translation>
     </message>
     <message>
         <source>version</source>
@@ -837,8 +837,8 @@ Osoite: %4</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Tietoja Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Tietoja Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -884,16 +884,16 @@ Osoite: %4</translation>
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Tervetuloa Quark Core</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Tervetuloa Zur Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Tämän on ensimmäinen kerta kun Quark Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Tämän on ensimmäinen kerta kun Zur Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Quark Core lataa ja tallentaa kopion Quarkin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zur Core lataa ja tallentaa kopion Zurin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -904,8 +904,8 @@ Osoite: %4</translation>
         <translation>Määritä oma kansio:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark-ydin</translation>
+        <source>Zur Core</source>
+        <translation>Zur-ydin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -958,12 +958,12 @@ Osoite: %4</translation>
         <translation>&amp;Yleiset</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Käynnistä Quark kirjautumisen yhteydessä.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Käynnistä Zur kirjautumisen yhteydessä.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Käynnistä Quark kirjautumisen yhteydessä</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Käynnistä Zur kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1038,16 +1038,16 @@ Osoite: %4</translation>
         <translation>&amp;Käytä varmistamattomia vaihtorahoja</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Quark-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Zur-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portin uudelleenohjaus &amp;UPnP:llä</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Quark-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä Zur-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1079,7 +1079,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Quark-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää Zur-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -1094,16 +1094,16 @@ Osoite: %4</translation>
         <translation>&amp;Käyttöliittymän kieli</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Quark käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Zur käynnistetään.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona quark-määrät näytetään</translation>
+        <translation>Yksikkö jona zur-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti quark-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti zur-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1153,8 +1153,8 @@ Osoite: %4</translation>
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Quark-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Zur-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1194,7 +1194,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Quarkien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Zurien määrä</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
@@ -1260,16 +1260,16 @@ Osoite: %4</translation>
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Ei voida käynnistää quark: klikkaa-maksu käsittelijää</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Ei voida käynnistää zur: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Maksupyynnön haku URL on virheellinen: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Quark-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Zur-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1338,8 +1338,8 @@ Osoite: %4</translation>
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Syötä Quark-osoite (esim. %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Syötä Zur-osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1564,7 +1564,7 @@ Osoite: %4</translation>
         <translation>Debug lokitiedosto</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1572,8 +1572,8 @@ Osoite: %4</translation>
         <translation>Tyhjennä konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Tervetuloa Quark RPC konsoliin.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Tervetuloa Zur RPC konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1647,8 +1647,8 @@ Osoite: %4</translation>
         <translation>&amp;Uudelleenkäytä vastaanotto-osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Quark-verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Zur-verkkoon.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1797,7 +1797,7 @@ Osoite: %4</translation>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Quarkeja</translation>
+        <translation>Lähetä Zureja</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1941,7 +1941,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Quarkien lähettäminen</translation>
+        <translation>Hyväksy Zurien lähettäminen</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1985,7 +1985,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Quarkia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Zuria.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
@@ -2020,8 +2020,8 @@ Osoite: %4</translation>
         <translation>Vahvistuminen alkaa arviolta %1 lohkon päästä.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Varoitus: Virheellinen Quark osoite</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Varoitus: Virheellinen Zur osoite</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2071,8 +2071,8 @@ Osoite: %4</translation>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Quark-osoite johon maksu lähetetään</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Zur-osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2103,8 +2103,8 @@ Osoite: %4</translation>
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>Viesti joka liitettiin quark: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Quark-verkkoon.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>Viesti joka liitettiin zur: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Zur-verkkoon.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2122,8 +2122,8 @@ Osoite: %4</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark core sulkeutuu...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2145,8 +2145,8 @@ Osoite: %4</translation>
         <translation>Voit allekirjoittaa viestit omalla osoitteellasi todistaaksesi että omistat ne. Ole huolellinen, että et allekirjoita mitään epämääräistä, phishing-hyökkääjät voivat huijata sinua allekirjoittamaan luovuttamalla henkilöllisyytesi. Allekirjoita selvitys täysin yksityiskohtaisesti mihin olet sitoutunut.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
-        <translation>Quark-osoite jolla viesti allekirjoitetaan</translation>
+        <source>The Zur address to sign the message with</source>
+        <translation>Zur-osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2177,8 +2177,8 @@ Osoite: %4</translation>
         <translation>Kopioi tämänhetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Quark-osoitteen</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Zur-osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2201,12 +2201,12 @@ Osoite: %4</translation>
         <translation>Syötä allekirjoittava osoite, viesti ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varmista että kopioit kaikki kentät täsmälleen oikein, myös rivinvaihdot, välilyönnit, tabulaattorit, jne.</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Quark-osoite jolla viesti on allekirjoitettu</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Zur-osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Quark-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Zur-osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2272,12 +2272,12 @@ Osoite: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark-ydin</translation>
+        <source>Zur Core</source>
+        <translation>Zur-ydin</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Quark Core kehittäjät</translation>
+        <source>The Zur Core developers</source>
+        <translation>Zur Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2553,7 +2553,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Quark-osoite</translation>
+        <translation>Rahansiirron kohteen Zur-osoite</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
@@ -2721,7 +2721,7 @@ Osoite: %4</translation>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Quarkeja</translation>
+        <translation>Lähetä Zureja</translation>
     </message>
 </context>
 <context>
@@ -2818,8 +2818,8 @@ Osoite: %4</translation>
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla riskillä - Ei saa käytää louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Quark Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Zur Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2982,8 +2982,8 @@ Osoite: %4</translation>
         <translation>Tuodaan lohkoja ulkoisesta blk000??.dat tiedostosta</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>Ei voida lukita data-hakemistoa %s. Quark Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>Ei voida lukita data-hakemistoa %s. Zur Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3010,12 +3010,12 @@ Osoite: %4</translation>
         <translation>Yhdistä SOCKS5 proxin kautta</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Copyright (C) 2009-%i  Quark kehittäjät</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Copyright (C) 2009-%i  Zur kehittäjät</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quark Core</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Quarkista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zur Core</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Zurista</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3038,8 +3038,8 @@ Osoite: %4</translation>
         <translation>Välityssolmukohdan asetukset:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL valinnat: (katso Quark Wikistä SSL-asennuksen ohjeet)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL valinnat: (katso Zur Wikistä SSL-asennuksen ohjeet)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3098,8 +3098,8 @@ Osoite: %4</translation>
         <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Quark uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Zur uudelleen</translation>
     </message>
     <message>
         <source>Warning</source>

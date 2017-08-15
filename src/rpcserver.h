@@ -93,7 +93,7 @@ public:
 };
 
 /**
- * Quark RPC command dispatcher.
+ * Zur RPC command dispatcher.
  */
 class CRPCTable
 {

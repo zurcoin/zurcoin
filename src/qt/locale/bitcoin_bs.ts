@@ -11,12 +11,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezrga</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezrga</translation>
     </message>
     </context>
 <context>
@@ -34,15 +34,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezrga</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezrga</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezrga</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezrga</translation>
     </message>
     </context>
 <context>
@@ -109,8 +109,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezrga</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezrga</translation>
     </message>
     </context>
 <context>

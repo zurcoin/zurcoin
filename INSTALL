@@ -1,5 +1,5 @@
-Building Quark
+Building Zur
 
-See doc/build-*.md for instructions on building quarkd,
+See doc/build-*.md for instructions on building zurd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Quark.
+implementation of Zur.

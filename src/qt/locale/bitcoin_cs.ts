@@ -66,12 +66,12 @@
         <translation>Přijímací adresy</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Quarkové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Zurové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tohle jsou tvé Quarkové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tohle jsou tvé Zurové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Potvrď zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY QUARKY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY ZURY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Zadej nové heslo k peněžence.&lt;br/&gt;Použij &lt;b&gt;alespoň deset náhodných znaků&lt;/b&gt; nebo &lt;b&gt;alespoň osm slov&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých quarků malwarem, kterým se může počítač nakazit.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých zurů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Načíst &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core klient</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Vytvářím nový index bloků na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Pošli mince na Quarkovou adresu</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Pošli mince na Zurovou adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Uprav nastavení Quarku</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Uprav nastavení Zuru</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Ověř zprávu...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>Při&amp;jmi</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Zobraz informace o Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Zobraz informace o Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Zašifruj soukromé klíče ve své peněžence</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Quarkovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Zurovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Quarkovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Zurovými adresami</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Panel s listy</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Požaduj platby (generuje QR kódy a quark: URI)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Požaduj platby (generuje QR kódy a zur: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>O &amp;Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>O &amp;Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Ukaž seznam použitých přijímacích adres a jejich označení</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Načti quark: URI nebo platební požadavek</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Načti zur: URI nebo platební požadavek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Ar&amp;gumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Seznam argumentů Quarku pro příkazovou řádku získáš v nápovědě Quarku Core</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Seznam argumentů Zuru pro příkazovou řádku získáš v nápovědě Zuru Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktivní spojení do Quarkové sítě</numerusform><numerusform>%n aktivní spojení do Quarkové sítě</numerusform><numerusform>%n aktivních spojení do Quarkové sítě</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktivní spojení do Zurové sítě</numerusform><numerusform>%n aktivní spojení do Zurové sítě</numerusform><numerusform>%n aktivních spojení do Zurové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -788,8 +788,8 @@ Adresa: %4
         <translation>Zadaná adresa "%1" už v adresáři je.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Zadaná adresa "%1" není platná Quarková adresa.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Zadaná adresa "%1" není platná Zurová adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -826,8 +826,8 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -838,8 +838,8 @@ Adresa: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>O Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>O Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -885,16 +885,16 @@ Adresa: %4
         <translation>Vítej</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Vítej v Quark Core.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Vítej v Zur Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Tohle je poprvé, co spouštíš Quark Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Tohle je poprvé, co spouštíš Zur Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Quark Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zur Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -905,8 +905,8 @@ Adresa: %4
         <translation>Použij tento adresář pro data:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -959,12 +959,12 @@ Adresa: %4
         <translation>&amp;Hlavní</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Automaticky spustí Quark po přihlášení do systému.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Automaticky spustí Zur po přihlášení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>S&amp;pustit Quark po přihlášení do systému</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>S&amp;pustit Zur po přihlášení do systému</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,7 +1039,7 @@ Adresa: %4
         <translation>&amp;Utrácet i ještě nepotvrzené drobné</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -1047,8 +1047,8 @@ Adresa: %4
         <translation>Namapovat port přes &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Připojí se do Quarkové sítě přes SOCKS5 proxy.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Připojí se do Zurové sítě přes SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1095,8 +1095,8 @@ Adresa: %4
         <translation>&amp;Jazyk uživatelského rozhraní:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Quarku.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Zuru.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1154,8 +1154,8 @@ Adresa: %4
         <translation>Formulář</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Quarkovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Zurovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1261,16 +1261,16 @@ Adresa: %4
         <translation>Chyba platebního požadavku</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Nemůžu spustit quark: obsluha click-to-pay</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Nemůžu spustit zur: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Zdrojová URL platebního požadavku není platná: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Quarková adresa nebo poškozené parametry URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Zurová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1339,8 +1339,8 @@ Adresa: %4
         <translation>Částka</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Zadej Quarkovou adresu (např. %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Zadej Zurovou adresu (např. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1565,16 +1565,16 @@ Adresa: %4
         <translation>Soubor s ladicími záznamy</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Quarku z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Zuru z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vyčistit konzoli</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Vítej v Quarkové RPC konzoli.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Vítej v Zurové RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1648,8 +1648,8 @@ Adresa: %4
         <translation>&amp;Recyklovat již existující adresy (nedoporučeno)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Quarkové síti.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Zurové síti.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1885,8 +1885,8 @@ Adresa: %4
         <translation>přinejmenším</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for quark transactions than the network can process.</source>
-        <translation>Platit jen minimální poplatek je v pořádku, pokud je zrovna méně transakcí než místa v blocích. Ale počítej s tím, že to také může skončit transakcí, která nikdy nebude potvrzena, pokud je větší poptávka po quarkových transakcích, než síť zvládne zpracovat.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for zur transactions than the network can process.</source>
+        <translation>Platit jen minimální poplatek je v pořádku, pokud je zrovna méně transakcí než místa v blocích. Ale počítej s tím, že to také může skončit transakcí, která nikdy nebude potvrzena, pokud je větší poptávka po zurových transakcích, než síť zvládne zpracovat.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2037,8 +2037,8 @@ Adresa: %4
         <translation>Potvrzování by podle odhadu mělo začít během %1 bloků.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Upozornění: Neplatná Quarková adresa</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Upozornění: Neplatná Zurová adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2088,8 +2088,8 @@ Adresa: %4
         <translation>Tohle je normální platba.</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Quarková adresa příjemce</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Zurová adresa příjemce</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2120,8 +2120,8 @@ Adresa: %4
         <translation>Zadej označení této adresy; obojí se ti pak uloží do adresáře</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>Zpráva, která byla připojena k quark: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Quarkové síti.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>Zpráva, která byla připojena k zur: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Zurové síti.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2139,8 +2139,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark Core se ukončuje...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur Core se ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2162,8 +2162,8 @@ Adresa: %4
         <translation>Podepsáním zprávy svými adresami můžeš prokázat, že je skutečně vlastníš. Buď opatrný a nepodepisuj nic vágního; například při phishingových útocích můžeš být lákán, abys něco takového podepsal. Podepisuj pouze zcela úplná a detailní prohlášení, se kterými souhlasíš.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
-        <translation>Quarková adresa, kterou se zpráva podepíše</translation>
+        <source>The Zur address to sign the message with</source>
+        <translation>Zurová adresa, kterou se zpráva podepíše</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2194,8 +2194,8 @@ Adresa: %4
         <translation>Zkopíruj aktuálně vybraný podpis do systémové schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Quarkové adresy</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Zurové adresy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2218,12 +2218,12 @@ Adresa: %4
         <translation>K ověření podpisu zprávy zadej podepisující adresu, zprávu (ověř si, že správně kopíruješ zalomení řádků, mezery, tabulátory apod.) a podpis. Dávej pozor na to, abys nezkopíroval do podpisu víc, než co je v samotné podepsané zprávě, abys nebyl napálen man-in-the-middle útokem.</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Quarková adresa, kterou je zpráva podepsána</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Zurová adresa, kterou je zpráva podepsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Quarkovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Zurovou adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2289,12 +2289,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Vývojáři Quark Core</translation>
+        <source>The Zur Core developers</source>
+        <translation>Vývojáři Zur Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2843,8 +2843,8 @@ Adresa: %4
         <translation>Tohle je testovací verze – používej ji jen na vlastní riziko, ale rozhodně ji nepoužívej k těžbě nebo pro obchodní aplikace</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Quark Core už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Zur Core už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3027,8 +3027,8 @@ Adresa: %4
         <translation>Čekat na zadané adrese na JSON-RPC spojení. Pro zápis IPv6 adresy použij notaci [adresa]:port. Tuto volbu lze použít i vícekrát (výchozí: poslouchat na všech rozhraních)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Quark Core pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Zur Core pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3051,12 +3051,12 @@ Adresa: %4
         <translation>Spustit příkaz, když přijde relevantní upozornění nebo když dojde k opravdu dlouhému rozštěpení řetezce bloků (%s se v příkazu nahradí zprávou)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Poplatky (v QRK/Kb) menší než tato hodnota jsou považovány za nulové pro účely přeposílání transakcí (výchozí: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Poplatky (v ZUR/Kb) menší než tato hodnota jsou považovány za nulové pro účely přeposílání transakcí (výchozí: %s)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Poplatky (v QRK/Kb) menší než tato hodnota jsou považovány za nulové pro účely vytváření transakcí (výchozí: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Poplatky (v ZUR/Kb) menší než tato hodnota jsou považovány za nulové pro účely vytváření transakcí (výchozí: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3095,27 +3095,27 @@ Adresa: %4
         <translation>Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v OpenSSL Toolkitu &lt;https://www.openssl.org/&gt; a kryptografický program od Erika Younga a program UPnP od Thomase Bernarda.</translation>
     </message>
     <message>
-        <source>To use quarkd, or the -server option to quark-qt, you must set an rpcpassword in the configuration file:
+        <source>To use zurd, or the -server option to zur-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </source>
-        <translation>K používání quarkd nebo volby -server u quark-qt musíš nastavit rpcpassword v konfiguračním souboru:
+        <translation>K používání zurd nebo volby -server u zur-qt musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+například: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3123,8 +3123,8 @@ například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Upozornění: -maxtxfee je nastaveno velmi vysoko! Takto vysoký poplatek může být zaplacen v jednotlivé transakci.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Quark Core will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Quark Core nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zur Core will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Zur Core nebude fungovat správně.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3143,16 +3143,16 @@ například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Připojit se přes SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Copyright (C) 2009-%i Vývojáři Quark Core</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Copyright (C) 2009-%i Vývojáři Zur Core</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Nejde mi přečíst hodnotu -rpcbind %s jako síťovou adresu</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quark Core</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Quark Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zur Core</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Zur Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3163,16 +3163,16 @@ například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Chyba: Argument -tor již není podporovaný, použij -onion.</translation>
     </message>
     <message>
-        <source>Fee (in QRK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Poplatek (v QRK/kB), který se přidá ke každé odeslané transakci (výchozí: %s)</translation>
+        <source>Fee (in ZUR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Poplatek (v ZUR/kB), který se přidá ke každé odeslané transakci (výchozí: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Quark Core is shutting down.</source>
-        <translation>Selhala úvodní zevrubná prověrka. Quark Core se ukončuje.</translation>
+        <source>Initialization sanity check failed. Zur Core is shutting down.</source>
+        <translation>Selhala úvodní zevrubná prověrka. Zur Core se ukončuje.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3207,8 +3207,8 @@ například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Možnosti přeposílání:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Quark Wiki)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Zur Wiki)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3279,8 +3279,8 @@ například: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Uživatelské jméno pro JSON-RPC spojení</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Quark Core, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Zur Core, aby se operace dokončila</translation>
     </message>
     <message>
         <source>Warning</source>

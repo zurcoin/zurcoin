@@ -112,7 +112,7 @@ public:
         pchMessageStart[1] = 0xa5;
         pchMessageStart[2] = 0x03;
         pchMessageStart[3] = 0xdd;
-        //the message start is same as quarkcoin... sorry about that. it doesn't matter and genesis is different.
+        //the message start is same as zurcoin... sorry about that. it doesn't matter and genesis is different.
 
         vAlertPubKey = ParseHex("0493e6dc310a0e444cfb20f3234a238f77699806d47909a42481010c5ce68ff04d3babc959cd037bd3aa6ded929f2b9b4aa2f626786cd7f8495e5bb61e9cfebbc4");
         //todo: generate and set new alert key for zurcoin

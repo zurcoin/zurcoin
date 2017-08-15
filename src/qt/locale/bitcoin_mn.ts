@@ -62,11 +62,11 @@
         <translation>Хүлээн авах хаяг</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Эдгээр Биткойн хаягууд нь илгээх хаягууд. Хүлээн авах хаяг болон тоо хэмжээг илгээхээсээ өмнө сайн нягталж үзэж байна уу</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Эдгээр Биткойн хаягууд нь хүлээн авах хаягууд. Гүйлгээ болгонд шинээр хаяг үүсгэхийг бид санал болгож байна.</translation>
     </message>
     <message>
@@ -152,7 +152,7 @@
         <translation>Түрүйвч цоожлогдлоо</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
         <translation>Цоожлолтын процесыг дуусгахын тулд Биткойн одоо хаагдана. Ѳѳрийн түрүйвчийг цоожлох нь таны биткойнуудыг компьютерийн вирус хулгайлахаас бүрэн сэргийлж чадахгүй гэдгийг санаарай.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>Quark</source>
+        <source>Zur</source>
         <translation>Биткойн</translation>
     </message>
     <message>
@@ -271,7 +271,7 @@
         <translation>&amp;Тусламж</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
+        <source>%n active connection(s) to Zur network</source>
         <translation><numerusform>Биткойны сүлжээрүү %n идэвхитэй холболт байна </numerusform><numerusform>Биткойны сүлжээрүү %n идэвхитэй холболтууд байна </numerusform></translation>
     </message>
     <message numerus="yes">
@@ -708,7 +708,7 @@ Address: %4
         <translation>Гүйлгээний тѳлбѳр %1-ийг тооцхоор нийт дүн нь таны балансаас хэтрээд байна.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
+        <source>Warning: Invalid Zur address</source>
         <translation>Анхаар:Буруу Биткойны хаяг байна</translation>
     </message>
     <message>
@@ -754,7 +754,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
+        <source>Zur Core is shutting down...</source>
         <translation>Биткойны цѳм хаагдаж байна...</translation>
     </message>
     <message>

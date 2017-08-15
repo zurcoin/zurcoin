@@ -107,7 +107,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Quark</source>
+        <source>Zur</source>
         <translation>Биткоин</translation>
     </message>
     <message>

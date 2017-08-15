@@ -386,7 +386,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("QuarkMiner : generated block is stale");
+            return error("ZurMiner : generated block is stale");
     }
 
     // Remove key from key pool
@@ -401,16 +401,16 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     // Process this block the same as if we had received it from another node
     CValidationState state;
     if (!ProcessNewBlock(state, NULL, pblock))
-        return error("QuarkMiner : ProcessNewBlock, block not accepted");
+        return error("ZurMiner : ProcessNewBlock, block not accepted");
 
     return true;
 }
 
 void static BitcoinMiner(CWallet *pwallet)
 {
-    LogPrintf("QuarkMiner started\n");
+    LogPrintf("ZurMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("quark-miner");
+    RenameThread("zur-miner");
     MilliSleep(1000);
 
     // Each thread has its own key and counter
@@ -462,13 +462,13 @@ void static BitcoinMiner(CWallet *pwallet)
             auto_ptr<CBlockTemplate> pblocktemplate(CreateNewBlockWithKey(reservekey));
             if (!pblocktemplate.get())
             {
-                LogPrintf("Error in QuarkMiner: Keypool ran out, please call keypoolrefill before restarting the mining thread\n");
+                LogPrintf("Error in ZurMiner: Keypool ran out, please call keypoolrefill before restarting the mining thread\n");
                 return;
             }
             CBlock *pblock = &pblocktemplate->block;
             IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-            LogPrintf("Running QuarkMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
+            LogPrintf("Running ZurMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
                 ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
             //
@@ -499,7 +499,7 @@ void static BitcoinMiner(CWallet *pwallet)
                     assert(hash == pblock->GetHash());
 
                     SetThreadPriority(THREAD_PRIORITY_NORMAL);
-                    LogPrintf("QuarkMiner:\n");
+                    LogPrintf("ZurMiner:\n");
                     LogPrintf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex(), hashTarget.GetHex());
                     ProcessBlockFound(pblock, *pwallet, reservekey);
                     SetThreadPriority(THREAD_PRIORITY_LOWEST);
@@ -572,12 +572,12 @@ void static BitcoinMiner(CWallet *pwallet)
     }
     catch (boost::thread_interrupted)
     {
-        LogPrintf("QuarkMiner terminated\n");
+        LogPrintf("ZurMiner terminated\n");
         throw;
     }
     catch (const std::runtime_error &e)
     {
-        LogPrintf("QuarkMiner runtime error: %s\n", e.what());
+        LogPrintf("ZurMiner runtime error: %s\n", e.what());
         return;
     }
 }

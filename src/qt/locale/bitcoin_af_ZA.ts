@@ -143,8 +143,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>

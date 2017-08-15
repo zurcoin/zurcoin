@@ -225,7 +225,7 @@ WalletModel::SendCoinsReturn WalletModel::prepareTransaction(WalletModelTransact
             total += subtotal;
         }
         else
-        {   // User-entered quark address / amount:
+        {   // User-entered zur address / amount:
             if(!validateAddress(rcp.address))
             {
                 return InvalidAddress;
@@ -278,7 +278,7 @@ WalletModel::SendCoinsReturn WalletModel::prepareTransaction(WalletModelTransact
             return TransactionCreationFailed;
         }
 
-        // reject insane fee > 0.1 quark
+        // reject insane fee > 0.1 zur
         if (nFeeRequired > 10000000)
             return InsaneFee;
     }
@@ -304,7 +304,7 @@ WalletModel::SendCoinsReturn WalletModel::sendCoins(WalletModelTransaction &tran
                 rcp.paymentRequest.SerializeToString(&value);
                 newTx->vOrderForm.push_back(make_pair(key, value));
             }
-            else if (!rcp.message.isEmpty()) // Message from normal quark:URI (quark:123...?message=example)
+            else if (!rcp.message.isEmpty()) // Message from normal zur:URI (zur:123...?message=example)
                 newTx->vOrderForm.push_back(make_pair("Message", rcp.message.toStdString()));
         }
 

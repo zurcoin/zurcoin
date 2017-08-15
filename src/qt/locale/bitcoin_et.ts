@@ -46,8 +46,8 @@
         <translation>V&amp;ali</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Quarki aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Zuri aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -132,8 +132,8 @@
         <translation>Kinnita rahakoti krüpteering</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA QUARKID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA ZURID&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -152,8 +152,8 @@
         <translation>Rahakott krüpteeritud</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista quarkide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista zuride vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -255,12 +255,12 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Saada münte Quarki aadressile</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Saada münte Zuri aadressile</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Muuda Quarki seadeid</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Muuda Zuri seadeid</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -283,8 +283,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -311,12 +311,12 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Quarki aadressiga</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Zuri aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Quarki aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Zuri aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -335,12 +335,12 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quarki tuumik</translation>
+        <source>Zur Core</source>
+        <translation>Zuri tuumik</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktiivne ühendus Quarki võrku</numerusform><numerusform>%n aktiivset ühendust Quarki võrku</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktiivne ühendus Zuri võrku</numerusform><numerusform>%n aktiivset ühendust Zuri võrku</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -551,8 +551,8 @@ Aadress: %4⏎</translation>
         <translation>Selline aadress on juba olemas: "%1"</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Sisestatud aadress "%1" ei ole Quarkis kehtiv.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Sisestatud aadress "%1" ei ole Zuris kehtiv.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -573,16 +573,16 @@ Aadress: %4⏎</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quarki tuumik</translation>
+        <source>Zur Core</source>
+        <translation>Zuri tuumik</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versioon</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Kirjeldus Quarki Tuumast</translation>
+        <source>About Zur Core</source>
+        <translation>Kirjeldus Zuri Tuumast</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -620,8 +620,8 @@ Aadress: %4⏎</translation>
         <translation>Teretulemast</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quarki tuumik</translation>
+        <source>Zur Core</source>
+        <translation>Zuri tuumik</translation>
     </message>
     <message>
         <source>Error</source>
@@ -646,12 +646,12 @@ Aadress: %4⏎</translation>
         <translation>Valikud</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Käivita Quark süsteemi logimisel.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Käivita Zur süsteemi logimisel.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Start Quark sisselogimisel</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Start Zur sisselogimisel</translation>
     </message>
     <message>
         <source>MB</source>
@@ -678,8 +678,8 @@ Aadress: %4⏎</translation>
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Quarki kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Zuri kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -726,8 +726,8 @@ Aadress: %4⏎</translation>
         <translation>Kasutajaliidese &amp;keel:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Quarki käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Zuri käivitamisel.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -765,7 +765,7 @@ Aadress: %4⏎</translation>
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -792,8 +792,8 @@ Aadress: %4⏎</translation>
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Quark ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Zur ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>
 <context>
@@ -908,16 +908,16 @@ Aadress: %4⏎</translation>
         <translation>Debugimise logifail</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Quarki logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava Zuri logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Puhasta konsool</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Teretulemast Quarki RPC konsooli.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Teretulemast Zuri RPC konsooli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1213,8 +1213,8 @@ Aadress: %4⏎</translation>
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Allkirjasta sõnum Quarki aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Allkirjasta sõnum Zuri aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1237,8 +1237,8 @@ Aadress: %4⏎</translation>
         <translation>Kinnitamiseks sisesta allkirjastamise aadress, sõnum (kindlasti kopeeri täpselt ka reavahetused, tühikud, tabulaatorid jms) ning allolev signatuur.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Quarki aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Zuri aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1304,12 +1304,12 @@ Aadress: %4⏎</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quarki tuumik</translation>
+        <source>Zur Core</source>
+        <translation>Zuri tuumik</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Quarki Tuuma arendajad</translation>
+        <source>The Zur Core developers</source>
+        <translation>Zuri Tuuma arendajad</translation>
     </message>
     <message>
         <source>[testnet]</source>

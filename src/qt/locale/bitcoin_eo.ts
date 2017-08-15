@@ -66,11 +66,11 @@
         <translation>Ricevaj adresoj</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Jen viaj Bitmon-adresoj por sendi pagojn. Zorge kontrolu la sumon kaj la alsendan adreson antaŭ ol sendi.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Jen viaj bitmonaj adresoj por ricevi pagojn. Estas konsilinde uzi apartan ricevan adreson por ĉiu transakcio.</translation>
     </message>
     <message>
@@ -164,7 +164,7 @@
         <translation>Konfirmo de ĉifrado de la monujo</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
         <translation>Atentu! Se vi ĉifras vian monujon kaj perdas la pasfrazon, vi &lt;b&gt;PERDOS LA TUTON DE VIA BITMONO&lt;b&gt;!</translation>
     </message>
     <message>
@@ -184,7 +184,7 @@
         <translation>La monujo estas ĉifrita</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitmono nun fermiĝos por fini la ĉifradon. Memoru, ke eĉ ĉifrado ne protektas kontraŭ ĉiu atako, ekz. se viruso infektus vian komputilon.</translation>
     </message>
     <message>
@@ -291,7 +291,7 @@
         <translation>Malfermi &amp;URI-on...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
+        <source>Zur Core client</source>
         <translation>kliento de bitmon-kerno</translation>
     </message>
     <message>
@@ -303,11 +303,11 @@
         <translation>Reindeksado de blokoj sur disko...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
+        <source>Send coins to a Zur address</source>
         <translation>Sendi monon al Bitmon-adreso</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
+        <source>Modify configuration options for Zur</source>
         <translation>Modifi agordaĵojn por Bitmono</translation>
     </message>
     <message>
@@ -331,7 +331,7 @@
         <translation>&amp;Kontroli mesaĝon...</translation>
     </message>
     <message>
-        <source>Quark</source>
+        <source>Zur</source>
         <translation>Bitmono</translation>
     </message>
     <message>
@@ -347,7 +347,7 @@
         <translation>&amp;Ricevi</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
+        <source>Show information about Zur Core</source>
         <translation>Vidigi informon pri Bitmona Kerno</translation>
     </message>
     <message>
@@ -363,11 +363,11 @@
         <translation>Ĉifri la privatajn ŝlosilojn de via monujo</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
         <translation>Subskribi mesaĝojn per via Bitmon-adresoj por pravigi, ke vi estas la posedanto</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
         <translation>Kontroli mesaĝojn por kontroli ĉu ili estas subskribitaj per specifaj Bitmon-adresoj</translation>
     </message>
     <message>
@@ -387,15 +387,15 @@
         <translation>Langeto-breto</translation>
     </message>
     <message>
-        <source>Quark Core</source>
+        <source>Zur Core</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso quark:)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso zur:)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
+        <source>&amp;About Zur Core</source>
         <translation>&amp;Pri la Bitmona Kerno</translation>
     </message>
     <message>
@@ -407,15 +407,15 @@
         <translation>Vidigi la liston de uzitaj ricevaj adresoj kaj etikedoj</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Malfermi quark:-URI-on aŭ pagpeton</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Malfermi zur:-URI-on aŭ pagpeton</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komandliniaj agordaĵoj</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
+        <source>%n active connection(s) to Zur network</source>
         <translation><numerusform>%n aktiva konekto al la bitmona reto</numerusform><numerusform>%n aktivaj konektoj al la bitmona reto</numerusform></translation>
     </message>
     <message>
@@ -764,7 +764,7 @@ Adreso: %4
         <translation>La adreso enigita "%1" jam ekzistas en la adresaro.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
+        <source>The entered address "%1" is not a valid Zur address.</source>
         <translation>La adreso enigita "%1" ne estas valida Bitmon-adreso.</translation>
     </message>
     <message>
@@ -802,7 +802,7 @@ Adreso: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
+        <source>Zur Core</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
@@ -810,7 +810,7 @@ Adreso: %4
         <translation>versio</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
+        <source>About Zur Core</source>
         <translation>Pri la Bitmona Kerno</translation>
     </message>
     <message>
@@ -853,16 +853,16 @@ Adreso: %4
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Bonvenon al la bitmona kerno, Quark Core.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Bonvenon al la bitmona kerno, Zur Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Quark Core stokos siajn datumojn.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Zur Core stokos siajn datumojn.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Quark Core elŝutos kaj konservos kopion de la bitmona blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zur Core elŝutos kaj konservos kopion de la bitmona blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -873,7 +873,7 @@ Adreso: %4
         <translation>Uzi alian dosierujon por datumoj:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
+        <source>Zur Core</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
@@ -915,11 +915,11 @@ Adreso: %4
         <translation>Ĉ&amp;efa</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
+        <source>Automatically start Zur after logging in to the system.</source>
         <translation>Aŭtomate lanĉi Bitmonon post ensaluto al la sistemo.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
+        <source>&amp;Start Zur on system login</source>
         <translation>&amp;Lanĉi Bitmonon tuj post ensaluto al la sistemo</translation>
     </message>
     <message>
@@ -947,7 +947,7 @@ Adreso: %4
         <translation>Fakulo</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Aŭtomate malfermi la kursilan pordon por Bitmono. Tio funkcias nur se via kursilo havas la UPnP-funkcion, kaj se tiu ĉi estas ŝaltita.</translation>
     </message>
     <message>
@@ -995,7 +995,7 @@ Adreso: %4
         <translation>&amp;Lingvo de la fasado:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
         <translation>Vi povas elekti la lingvon uzata en la aplikaĵo ĉi tie. Tiu ekefikos nur post relanĉo de Bitmono.</translation>
     </message>
     <message>
@@ -1042,7 +1042,7 @@ Adreso: %4
         <translation>Formularo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
         <translation>Eblas, ke la informoj videblaj ĉi tie estas eksdataj. Via monujo aŭtomate sinkoniĝas kun la bitmona reto kiam ili konektiĝas, sed tiu procezo ankoraŭ ne finfariĝis.</translation>
     </message>
     <message>
@@ -1093,7 +1093,7 @@ Adreso: %4
         <translation>Eraro dum pagopeto</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
+        <source>Cannot start zur: click-to-pay handler</source>
         <translation>Ne eblas lanĉi la ilon 'klaki-por-pagi'</translation>
     </message>
     <message>
@@ -1257,7 +1257,7 @@ Adreso: %4
         <translation>Sencimiga protokoldosiero</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Malfermi la sencimiga protokoldosiero de Bitmono el la aktuala dosierujo por datumoj. Tio eble daŭros plurajn sekundojn por granda protokoldosiero.</translation>
     </message>
     <message>
@@ -1265,7 +1265,7 @@ Adreso: %4
         <translation>Malplenigi konzolon</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
+        <source>Welcome to the Zur RPC console.</source>
         <translation>Bonvenon al la RPC-konzolo de Bitmono.</translation>
     </message>
     <message>
@@ -1573,7 +1573,7 @@ Adreso: %4
         <translation>Kreo de transakcio fiaskis!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
+        <source>Warning: Invalid Zur address</source>
         <translation>Averto: Nevalida Bitmon-adreso</translation>
     </message>
     <message>
@@ -1702,7 +1702,7 @@ Adreso: %4
         <translation>Kopii la aktualan subskribon al la tondejo</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
+        <source>Sign the message to prove you own this Zur address</source>
         <translation>Subskribi la mesaĝon por pravigi, ke vi estas la posedanto de tiu Bitmon-adreso</translation>
     </message>
     <message>
@@ -1726,7 +1726,7 @@ Adreso: %4
         <translation>Enmeti la subskriban adreson, la mesaĝon (kune kun ĉiu linisalto, spaceto, taboj, ktp. precize) kaj la subskribon ĉi sube por kontroli la mesaĝon. Atentu, ke vi ne komprenu per la subskribo pli ol la enhavo de la mesaĝo mem, por eviti homo-en-la-mezo-atakon.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
         <translation>Kontroli la mesaĝon por pravigi, ke ĝi ja estas subskribita per la specifa Bitmon-adreso</translation>
     </message>
     <message>
@@ -1793,11 +1793,11 @@ Adreso: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
+        <source>Zur Core</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
+        <source>The Zur Core developers</source>
         <translation>La programistoj de Bitmona Kerno</translation>
     </message>
     <message>

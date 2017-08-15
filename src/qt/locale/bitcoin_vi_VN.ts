@@ -167,12 +167,12 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core client</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core client</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -207,12 +207,12 @@
         <translation>Trợ &amp;giúp</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;Về Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;Về Zur Core</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -374,16 +374,16 @@ Loại: %3
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Về Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Về Zur Core</translation>
     </message>
     </context>
 <context>
@@ -393,8 +393,8 @@ Loại: %3
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -593,8 +593,8 @@ Loại: %3
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     </context>
 <context>

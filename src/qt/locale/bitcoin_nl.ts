@@ -66,12 +66,12 @@
         <translation>Ontvang adressen</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Quarkadressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u uw quarkcoins verzendt.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Zuradressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u uw zurcoins verzendt.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Quark-adressen waarmee u kunt betalen. We raden u aan om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw Zur-adressen waarmee u kunt betalen. We raden u aan om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW QUARKS VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW ZURS VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Voer een nieuw wachtwoord in voor uw portomonee.&lt;br/&gt;Gebruik een wachtwoord van &lt;b&gt;tien of meer willekeurige karakters&lt;/b&gt;, of &lt;b&gt;acht of meer woorden&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark zal nu afsluiten om het versleutelingsproces te voltooien. Onthoudt dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw quarkcoins stelen.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur zal nu afsluiten om het versleutelingsproces te voltooien. Onthoudt dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw zurcoins stelen.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Open &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Kern applicatie</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Kern applicatie</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Bezig met herindexeren van blokken op harde schijf...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Verstuur munten naar een Quarkadres</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Verstuur munten naar een Zuradres</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Wijzig instellingen van Quark</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Wijzig instellingen van Zur</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Verifiëer bericht...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Ontvangen</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Toon informatie over quark kern</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Toon informatie over zur kern</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Versleutel de geheime sleutels die bij uw portemonnee horen</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Quarkadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw Zuradressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Quarkadressen</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Zuradressen</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Tab-werkbalk</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Kern</translation>
+        <source>Zur Core</source>
+        <translation>Zur Kern</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en quark: URIs)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR codes en zur: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;Over Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;Over Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Toon de lijst met gebruikte ontvangst adressen en labels</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Open een quark: URI of betalingsverzoek</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Open een zur: URI of betalingsverzoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Commandoregel-opties</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Toon het Quark Core hulpbericht om een lijst te krijgen met mogelijke Quark commandoregelopties</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Toon het Zur Core hulpbericht om een lijst te krijgen met mogelijke Zur commandoregelopties</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n actieve connectie naar Quark netwerk</numerusform><numerusform>%n actieve connecties naar Quark netwerk</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n actieve connectie naar Zur netwerk</numerusform><numerusform>%n actieve connecties naar Zur netwerk</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -788,8 +788,8 @@ Adres: %4
         <translation>Het opgegeven adres "%1" bestaat al in uw adresboek.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Het opgegeven adres "%1" is een ongeldig Quarkadres</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Het opgegeven adres "%1" is een ongeldig Zuradres</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -826,8 +826,8 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Kern</translation>
+        <source>Zur Core</source>
+        <translation>Zur Kern</translation>
     </message>
     <message>
         <source>version</source>
@@ -838,8 +838,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Over Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Over Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -885,16 +885,16 @@ Adres: %4
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Welkom bij Quark Core</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Welkom bij Zur Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Omdat dit de eerste keer is dat het programma gestart is, kunt u nu kiezen waar Quark Core de data moet opslaan.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Omdat dit de eerste keer is dat het programma gestart is, kunt u nu kiezen waar Zur Core de data moet opslaan.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Quark Core zal een kopie van de Quark blokketen downloaden en opslaan. Tenminste %1 GB aan data wordt opgeslagen in deze map en het zal groeien in de tijd. De portemonnee wordt ook in deze map opgeslagen.</translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zur Core zal een kopie van de Zur blokketen downloaden en opslaan. Tenminste %1 GB aan data wordt opgeslagen in deze map en het zal groeien in de tijd. De portemonnee wordt ook in deze map opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -905,8 +905,8 @@ Adres: %4
         <translation>Gebruik een persoonlijke gegevensmap:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Kern</translation>
+        <source>Zur Core</source>
+        <translation>Zur Kern</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -959,12 +959,12 @@ Adres: %4
         <translation>&amp;Algemeen</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Start Quark automatisch na inloggen in het systeem</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Start Zur automatisch na inloggen in het systeem</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>Start &amp;Quark bij het inloggen in het systeem</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>Start &amp;Zur bij het inloggen in het systeem</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,16 +1039,16 @@ Adres: %4
         <translation>&amp;Spendeer onbevestigd wisselgeld</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Quark-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Zur-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portmapping via &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Verbind met het Quark netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Verbind met het Zur netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1095,8 +1095,8 @@ Adres: %4
         <translation>Taal &amp;Gebruikersinterface:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Quark herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Zur herstart wordt.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Quarknetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Zurnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1261,16 +1261,16 @@ Adres: %4
         <translation>Fout bij betalingsverzoek</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Kan quark niet starten: click-to-pay handler</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Kan zur niet starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>URL om betalingsverzoek te verkrijgen is ongeldig: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>URI kan niet verwerkt worden! Dit kan het gevolg zijn van een ongeldig Quark adres of misvormde URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>URI kan niet verwerkt worden! Dit kan het gevolg zijn van een ongeldig Zur adres of misvormde URI parameters.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1339,8 +1339,8 @@ Adres: %4
         <translation>Bedrag</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Voer een Quark-adres in (bijv. %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Voer een Zur-adres in (bijv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1565,16 +1565,16 @@ Adres: %4
         <translation>Debug-logbestand</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Quarkdebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Zurdebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Maak console leeg</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Welkom bij de Quark RPC-console.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Welkom bij de Zur RPC-console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1648,8 +1648,8 @@ Adres: %4
         <translation>H&amp;ergebruik en bestaand ontvangstadres (niet aanbevolen)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Een optioneel bericht om bij te voegen aan het betalingsverzoek, dewelke zal getoond worden wanneer het verzoek is geopend. Opermerking: Het bericht zal niet worden verzonden met de betaling over het Quark netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Een optioneel bericht om bij te voegen aan het betalingsverzoek, dewelke zal getoond worden wanneer het verzoek is geopend. Opermerking: Het bericht zal niet worden verzonden met de betaling over het Zur netwerk.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1885,8 +1885,8 @@ Adres: %4
         <translation>totaal ten minste</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for quark transactions than the network can process.</source>
-        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar quarktransacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for zur transactions than the network can process.</source>
+        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar zurtransacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2037,8 +2037,8 @@ Adres: %4
         <translation>Beginnen van bevesting geschat binnen %1 blok(ken).</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Waarschuwing: Ongeldig Quark adres</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Waarschuwing: Ongeldig Zur adres</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2088,8 +2088,8 @@ Adres: %4
         <translation>Dit is een normale betaling.</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Het Quark adres om betaling aan te voldoen</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Het Zur adres om betaling aan te voldoen</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2120,8 +2120,8 @@ Adres: %4
         <translation>Vul een label voor dit adres in om het aan de lijst met gebruikte adressen toe te voegen</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>Een bericht dat werd toegevoegd aan de quark: URI dewelke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Quark netwerk.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>Een bericht dat werd toegevoegd aan de zur: URI dewelke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Zur netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2139,8 +2139,8 @@ Adres: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark Core is aan het afsluiten...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2162,8 +2162,8 @@ Adres: %4
         <translation>U kunt berichten ondertekenen met een van uw adressen om te bewijzen dat u dit adres bezit. Pas op dat u geen onduidelijke dingen ondertekent, want phishingaanvallen zouden u kunnen misleiden om zo uw identiteit te stelen. Onderteken alleen berichten waarmee u het volledig eens bent.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
-        <translation>Het Quark adres om bericht mee te ondertekenen</translation>
+        <source>The Zur address to sign the message with</source>
+        <translation>Het Zur adres om bericht mee te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2194,8 +2194,8 @@ Adres: %4
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Quarkadres bezit</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Zuradres bezit</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2218,12 +2218,12 @@ Adres: %4
         <translation>Voer het ondertekenende adres, bericht en handtekening hieronder in (let erop dat u nieuwe regels, spaties en tabs juist overneemt) om de handtekening te verifiëren. Let erop dat u niet meer uit het bericht interpreteert dan er daadwerkelijk staat,  om te voorkomen dat u wordt misleid in een man-in-the-middle-aanval.</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Het Quark adres waarmee het bericht ondertekend is</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Het Zur adres waarmee het bericht ondertekend is</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Quarkadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Zuradres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2289,12 +2289,12 @@ Adres: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Kern</translation>
+        <source>Zur Core</source>
+        <translation>Zur Kern</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>De Quark Core ontwikkelaars</translation>
+        <source>The Zur Core developers</source>
+        <translation>De Zur Core ontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2843,8 +2843,8 @@ Adres: %4
         <translation>Dit is een pre-release testversie - gebruik op eigen risico! Gebruik deze niet voor het delven van munten of handelsdoeleinden</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Niet in staat om %s te verbinden op deze computer. Quark Core draait waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Niet in staat om %s te verbinden op deze computer. Zur Core draait waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3027,8 +3027,8 @@ Adres: %4
         <translation>Bind aan gegeven adres om te luisteren voor JSON-RPC verbindingen. Gebruik [host]:poort notatie voor IPv6. Deze optie kan meerdere keren gespecificeerd worden (standaard: bind aan alle interfaces.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>Kan geen lock verkrijgen op gegevensmap %s. Quark Core draait waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>Kan geen lock verkrijgen op gegevensmap %s. Zur Core draait waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3051,12 +3051,12 @@ Adres: %4
         <translation>Voer commando uit zodra een waarschuwing is ontvangen of wanneer we een erg lange fork detecteren (%s in commando wordt vervangen door bericht)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Toeslagen (in QRK/Kb) kleiner dan dit worden beschouwd als geen vergoeding (voor doorgeven) (standaard: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Toeslagen (in ZUR/Kb) kleiner dan dit worden beschouwd als geen vergoeding (voor doorgeven) (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Toeslagen (in QRK/Kb) kleiner dan dit worden beschouwd als geen vergoeding transactieaanmaak (standaard: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Toeslagen (in ZUR/Kb) kleiner dan dit worden beschouwd als geen vergoeding transactieaanmaak (standaard: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3096,27 +3096,27 @@ Adres: %4
         <translation>Dit product bevat software dat ontwikkeld is door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use quarkd, or the -server option to quark-qt, you must set an rpcpassword in the configuration file:
+        <source>To use zurd, or the -server option to zur-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </source>
-        <translation>Om quarkd of de -server optie naar quark-gt te gebruiken, dient u een rpcwachtwoord in te stellen in het configuratiebestand:
+        <translation>Om zurd of de -server optie naar zur-gt te gebruiken, dient u een rpcwachtwoord in te stellen in het configuratiebestand:
  %s
 Wij raden u aan om het volgende wachtwoord willekeurig te gebruiken: 
-rpcuser=quarkrpc 
+rpcuser=zurrpc 
 rpcpassword=%s 
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en het wachtwoorden moeten NIET hetzelfde zijn. 
 Indien het bestand niet bestaat, maak het bestand aan met bestandsrechten: alleen lezen voor eigenaar.
 Het is ook aan te raden om een alarmnotificatie in te stellen, zodat u op de hoogte bent van de problemen;
-Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+Voorbeeld: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,8 +3124,8 @@ Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Let op: -maxtxfee is erg hoog ingesteld! Transactiekosten van dergelijke groottes kunnen in een enkele transactie worden betaald.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Quark Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd van uw computer correct zijn ingesteld! Bij een onjuist ingestelde klok zal Quark Core niet goed werken.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zur Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd van uw computer correct zijn ingesteld! Bij een onjuist ingestelde klok zal Zur Core niet goed werken.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3144,16 +3144,16 @@ Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Verbind door SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Auteursrecht (C) 2009-%i De Quark Core Ontwikkelaars</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Auteursrecht (C) 2009-%i De Zur Core Ontwikkelaars</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Niet mogelijk om -rpcbind waarde %s te verwerken als netwerk adres</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quark Core</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Quark Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zur Core</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Zur Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3164,16 +3164,16 @@ Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Fout: Niet ondersteund argument -tor gevonden, gebruik -onion.</translation>
     </message>
     <message>
-        <source>Fee (in QRK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Transactiekosten (in QRK/kB) om toe te voegen aan transacties die u verstuurd (standaard: %s)</translation>
+        <source>Fee (in ZUR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Transactiekosten (in ZUR/kB) om toe te voegen aan transacties die u verstuurd (standaard: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Quark Core is shutting down.</source>
-        <translation>Initialisatie sanity check mislukt. Quark Core is aan het afsluiten.</translation>
+        <source>Initialization sanity check failed. Zur Core is shutting down.</source>
+        <translation>Initialisatie sanity check mislukt. Zur Core is aan het afsluiten.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3208,8 +3208,8 @@ Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Node relay opties:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL opties: (zie de Quark Wiki voor SSL installatie-instructies)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL opties: (zie de Zur Wiki voor SSL installatie-instructies)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3280,8 +3280,8 @@ Voorbeeld: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Gebruikersnaam voor JSON-RPC-verbindingen</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Quark Core om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart Zur Core om te voltooien</translation>
     </message>
     <message>
         <source>Warning</source>

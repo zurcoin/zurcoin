@@ -66,12 +66,12 @@
         <translation>Adresa za primanje</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Quark adrese za slanje uplate. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše Zur adrese za slanje uplate. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Quark adrese za primanje isplate. Preporučamo da koristite novu primateljsku adresu za svaku transakciju.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su vaše Zur adrese za primanje isplate. Preporučamo da koristite novu primateljsku adresu za svaku transakciju.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE QUARKSE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE ZURSE!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Unesite novu lozinku za novčanik. &lt;br/&gt;Molimo Vas da koristite zaporku od &lt;b&gt;deset ili više slučajnih znakova&lt;/b&gt;, ili &lt;b&gt;osam ili više riječi.&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše quarke od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše zure od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core klijent</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Slanje novca na quark adresu</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Slanje novca na zur adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Promijeni postavke konfiguracije za quark</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Promijeni postavke konfiguracije za zur</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>Pri&amp;miti</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Prikaži informacije o Quark Coreu</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Prikaži informacije o Zur Coreu</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Šifriraj privatne ključeve koji pripadaju tvom novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Potpiši poruke svojim Quark adresama kako bi dokazao da si njihov vlasnik</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Potpiši poruke svojim Zur adresama kako bi dokazao da si njihov vlasnik</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Provjerite porkue kako bi se uvjerili da su potpisane navedenim Quark adresama</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Provjerite porkue kako bi se uvjerili da su potpisane navedenim Zur adresama</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezgra</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezgra</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Zatraži uplate (Stvara QR kodove i quark: URIje)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Zatraži uplate (Stvara QR kodove i zur: URIje)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;O Quark Jezgri</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;O Zur Jezgri</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Prikaži popis korištenih adresa i oznaka za primanje isplate</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Otvori quark: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Otvori zur: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
         <translation>Ispis svih opcija naredbene linije programa sa kratkim opisom</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktivna veza na Quark mrežu</numerusform><numerusform>%n aktivne veze na Quark mrežu</numerusform><numerusform>%n aktivnih veza na Quark mrežu</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktivna veza na Zur mrežu</numerusform><numerusform>%n aktivne veze na Zur mrežu</numerusform><numerusform>%n aktivnih veza na Zur mrežu</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -641,7 +641,7 @@ Adresa:%4
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Quark adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>Zur adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -668,8 +668,8 @@ Adresa:%4
         <translation>Upisana adresa "%1" je već u adresaru.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Upisana adresa "%1" nije valjana quark adresa.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Upisana adresa "%1" nije valjana zur adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -698,8 +698,8 @@ Adresa:%4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezgra</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezgra</translation>
     </message>
     <message>
         <source>version</source>
@@ -710,8 +710,8 @@ Adresa:%4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>O Quark Jezrgu</translation>
+        <source>About Zur Core</source>
+        <translation>O Zur Jezrgu</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -741,12 +741,12 @@ Adresa:%4
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Dobrodošli u programu Quark Core.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Dobrodošli u programu Zur Core.</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezgra</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezgra</translation>
     </message>
     <message>
         <source>Error</source>
@@ -787,12 +787,12 @@ Adresa:%4
         <translation>&amp;Glavno</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Automatski pokreni Quark kad se uključi računalo</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Automatski pokreni Zur kad se uključi računalo</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Pokreni Quark kod pokretanja sustava</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Pokreni Zur kod pokretanja sustava</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -835,8 +835,8 @@ Adresa:%4
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Quark klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port Zur klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -888,7 +888,7 @@ Adresa:%4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio quarka koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio zura koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -914,8 +914,8 @@ Adresa:%4
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Quark mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Zur mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1049,8 +1049,8 @@ Adresa:%4
         <translation>Očisti konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Dobrodošli u Quark RPC konzolu.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Dobrodošli u Zur RPC konzolu.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1365,8 +1365,8 @@ Adresa:%4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Jezgra</translation>
+        <source>Zur Core</source>
+        <translation>Zur Jezgra</translation>
     </message>
     <message>
         <source>[testnet]</source>

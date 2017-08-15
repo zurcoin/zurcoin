@@ -30,7 +30,7 @@
         <translation>&amp;Dele</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -112,7 +112,7 @@
         <translation>Confirma cifrationem cassidilis</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
         <translation>Monitio: Si cassidile tuum cifras et tesseram amittis, tu &lt;b&gt;AMITTES OMNES TUOS NUMMOS BITOS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -132,8 +132,8 @@
         <translation>Cassidile cifratum</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -231,12 +231,12 @@
         <translation>Recreans indicem frustorum in disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Mitte nummos ad inscriptionem Quark</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Mitte nummos ad inscriptionem Zur</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Muta configurationis optiones pro Quark</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Muta configurationis optiones pro Zur</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -259,8 +259,8 @@
         <translation>&amp;Verifica nuntium...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -287,12 +287,12 @@
         <translation>Cifra claves privatas quae cassidili tui sunt</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Quark ut demonstres te eas possidere</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus Zur ut demonstres te eas possidere</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Quark</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Zur</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -311,12 +311,12 @@
         <translation>Tabella instrumentorum "Tabs"</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Nucleus</translation>
+        <source>Zur Core</source>
+        <translation>Zur Nucleus</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n activa conexio ad rete Quark</numerusform><numerusform>%n activae conexiones ad rete Quark</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n activa conexio ad rete Zur</numerusform><numerusform>%n activae conexiones ad rete Zur</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -476,8 +476,8 @@ Inscriptio: %4
         <translation>Inserta inscriptio "%1" iam in libro inscriptionum est.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Inscriptio inserta "%1" non valida inscriptio Quark est.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Inscriptio inserta "%1" non valida inscriptio Zur est.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -494,8 +494,8 @@ Inscriptio: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Nucleus</translation>
+        <source>Zur Core</source>
+        <translation>Zur Nucleus</translation>
     </message>
     <message>
         <source>version</source>
@@ -533,8 +533,8 @@ Inscriptio: %4
 <context>
     <name>Intro</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Nucleus</translation>
+        <source>Zur Core</source>
+        <translation>Zur Nucleus</translation>
     </message>
     <message>
         <source>Error</source>
@@ -555,12 +555,12 @@ Inscriptio: %4
         <translation>&amp;Princeps</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Pelle Quark per se postquam in systema inire.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Pelle Zur per se postquam in systema inire.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Pelle Quark cum inire systema</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Pelle Zur cum inire systema</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -575,8 +575,8 @@ Inscriptio: %4
         <translation>&amp;Rete</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Quark in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis Zur in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -623,8 +623,8 @@ Inscriptio: %4
         <translation>&amp;Lingua monstranda utenti:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Quark iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Zur iterum initiatum erit.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -662,8 +662,8 @@ Inscriptio: %4
         <translation>Schema</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Quark postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Zur postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -685,8 +685,8 @@ Inscriptio: %4
         <translation>Tractatio URI</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Quark incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Zur incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
     </context>
 <context>
@@ -773,16 +773,16 @@ Inscriptio: %4
         <translation>Debug catalogi plica</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de Quark debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de Zur debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vacuefac terminale</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Bene ventio in terminale RPC de Quark.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Bene ventio in terminale RPC de Zur.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1002,8 +1002,8 @@ Inscriptio: %4
         <translation>Copia signationem in latibulum systematis</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Quark a te possessa esse</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem Zur a te possessa esse</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1026,8 +1026,8 @@ Inscriptio: %4
         <translation>Insere inscriptionem signantem, nuntium (cura ut copias intermissiones linearum, spatia, tabs, et cetera exacte) et signationem infra ut nuntium verifices.  Cautus esto ne magis legas in signationem quam in nuntio signato ipso est, ut vites falli ab impetu homo-in-medio.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Quark</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Zur</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1093,8 +1093,8 @@ Inscriptio: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Nucleus</translation>
+        <source>Zur Core</source>
+        <translation>Zur Nucleus</translation>
     </message>
     <message>
         <source>[testnet]</source>

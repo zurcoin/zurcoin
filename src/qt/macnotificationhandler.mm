@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.bitcoinfoundation.Quark-Qt";
+        return @"org.bitcoinfoundation.Zur-Qt";
     } else {
         return [self __bundleIdentifier];
     }

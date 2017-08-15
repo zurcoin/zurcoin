@@ -66,12 +66,12 @@
         <translation>Adresa de primire</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Acestea sînt adresele dumneavoastră Quark pentru efectuarea plăţilor. Verificaţi întotdeauna cantitatea şi adresa de primire înainte de a trimite monezi.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Acestea sînt adresele dumneavoastră Zur pentru efectuarea plăţilor. Verificaţi întotdeauna cantitatea şi adresa de primire înainte de a trimite monezi.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Acestea sînt adresele dumneavoastră Quark folosite pentru a primi plati. Este recomandat să folosiţi o adresă nouă de primire pentru fiecare tranzacţie în parte.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Acestea sînt adresele dumneavoastră Zur folosite pentru a primi plati. Este recomandat să folosiţi o adresă nouă de primire pentru fiecare tranzacţie în parte.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Confirmaţi criptarea portofelului</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Atenţie: Dacă pierdeţi parola portofelului electronic după criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE QUARK ACUMULATĂ&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Atenţie: Dacă pierdeţi parola portofelului electronic după criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE ZUR ACUMULATĂ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Introduceţi noua parolă a portofelului electronic.&lt;br/&gt;Vă rugăm să folosiţi o parolă de&lt;b&gt;minimum 10 caractere aleatoare&lt;/b&gt;, sau &lt;b&gt;minimum 8 cuvinte&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark se va închide acum pentru a termina procesul de criptare. Ţineţi minte că criptarea portofelului nu vă poate proteja în totalitate de furtul monedelor de către programe dăunătoare care vă infectează calculatorul.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur se va închide acum pentru a termina procesul de criptare. Ţineţi minte că criptarea portofelului nu vă poate proteja în totalitate de furtul monedelor de către programe dăunătoare care vă infectează calculatorul.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Clientul Quark Core</translation>
+        <source>Zur Core client</source>
+        <translation>Clientul Zur Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Se reindexează blocurile pe disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Trimite monede către o adresă Quark</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Trimite monede către o adresă Zur</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Modifică opţiunile de configurare pentru Quark</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Modifică opţiunile de configurare pentru Zur</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Verifică mesaj...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>P&amp;rimeşte</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Arată informaţii despre Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Arată informaţii despre Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Criptează cheile private ale portofelului dvs.</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Semnaţi mesaje cu adresa dvs. Quark pentru a dovedi că vă aparţin</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Semnaţi mesaje cu adresa dvs. Zur pentru a dovedi că vă aparţin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Quark specificată</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Zur specificată</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Bara de unelte</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Nucleul Quark</translation>
+        <source>Zur Core</source>
+        <translation>Nucleul Zur</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Cereţi plăţi (generează coduri QR şi quark-uri: URls)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Cereţi plăţi (generează coduri QR şi zur-uri: URls)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;Despre Nucleul Quark</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;Despre Nucleul Zur</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Arată lista de adrese pentru primire şi etichetele</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Deschidere quark: o adresa URI sau o cerere de plată</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Deschidere zur: o adresa URI sau o cerere de plată</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opţiuni linie de &amp;comandă</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Arată mesajul de ajutor Quark Core pentru a obţine o listă cu opţiunile posibile de linii de comandă Quark</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Arată mesajul de ajutor Zur Core pentru a obţine o listă cu opţiunile posibile de linii de comandă Zur</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n conexiune activă către reţeaua Quark</numerusform><numerusform>%n conexiuni active către reţeaua Quark</numerusform><numerusform>%n de conexiuni active către reţeaua Quark</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n conexiune activă către reţeaua Zur</numerusform><numerusform>%n conexiuni active către reţeaua Zur</numerusform><numerusform>%n de conexiuni active către reţeaua Zur</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -776,8 +776,8 @@ Adresa: %4
         <translation>Adresa introdusă "%1" se află deja în lista de adrese.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Adresa introdusă "%1" nu este o adresă quark validă.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Adresa introdusă "%1" nu este o adresă zur validă.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -814,8 +814,8 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Nucleul Quark</translation>
+        <source>Zur Core</source>
+        <translation>Nucleul Zur</translation>
     </message>
     <message>
         <source>version</source>
@@ -826,8 +826,8 @@ Adresa: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Despre Nucleul Quark</translation>
+        <source>About Zur Core</source>
+        <translation>Despre Nucleul Zur</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -873,12 +873,12 @@ Adresa: %4
         <translation>Bun venit</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Bine aţi venit la Nucleul Quark.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Bine aţi venit la Nucleul Zur.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Dacă aceasta este prima dată cînd programul este lansat, puteţi alege unde Nucleul Quark va stoca datele.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Dacă aceasta este prima dată cînd programul este lansat, puteţi alege unde Nucleul Zur va stoca datele.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -889,8 +889,8 @@ Adresa: %4
         <translation>Foloseşte un dosar de date personalizat:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Nucleul Quark</translation>
+        <source>Zur Core</source>
+        <translation>Nucleul Zur</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -943,12 +943,12 @@ Adresa: %4
         <translation>Principal</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Porneşte automat Quark după pornirea calculatorului.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Porneşte automat Zur după pornirea calculatorului.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>Porneşte Quark la pornirea sistemului</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>Porneşte Zur la pornirea sistemului</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1023,16 +1023,16 @@ Adresa: %4
         <translation>Cheltuire rest neconfirmat</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Quark. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat în router portul aferent clientului Zur. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapare port folosind &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Conectare la reţeaua Quark printr-un proxy SOCKS.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Conectare la reţeaua Zur printr-un proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1079,8 +1079,8 @@ Adresa: %4
         <translation>&amp;Limbă interfaţă utilizator</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Limba interfeţei utilizatorului poate fi setată aici. Această setare va avea efect după repornirea Quark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Limba interfeţei utilizatorului poate fi setată aici. Această setare va avea efect după repornirea Zur.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1088,7 +1088,7 @@ Adresa: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Alegeţi subdiviziunea folosită la afişarea interfeţei şi la trimiterea de quark.</translation>
+        <translation>Alegeţi subdiviziunea folosită la afişarea interfeţei şi la trimiterea de zur.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1128,7 +1128,7 @@ Adresa: %4
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa quark pe care aţi specificat-o nu este validă.</translation>
+        <translation>Adresa zur pe care aţi specificat-o nu este validă.</translation>
     </message>
 </context>
 <context>
@@ -1138,8 +1138,8 @@ Adresa: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Quark după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Zur după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1245,16 +1245,16 @@ Adresa: %4
         <translation>Eroare la cererea de plată</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Nu poate porni quark: manipulator clic-pentru-plată</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Nu poate porni zur: manipulator clic-pentru-plată</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>URL-ul cererii de plată preluat nu este valid: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Quark nevalidă sau parametri URI deformaţi.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Zur nevalidă sau parametri URI deformaţi.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1323,8 +1323,8 @@ Adresa: %4
         <translation>Cantitate</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Introduceţi o adresă Quark (de exemplu %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Introduceţi o adresă Zur (de exemplu %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1537,7 +1537,7 @@ Adresa: %4
         <translation>Fişier jurnal depanare</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Deschide fişierul jurnal depanare din directorul curent. Aceasta poate dura cîteva secunde pentru fişierele mai mari.</translation>
     </message>
     <message>
@@ -1545,8 +1545,8 @@ Adresa: %4
         <translation>Curăţă consola</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Bun venit la consola quark RPC.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Bun venit la consola zur RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1620,8 +1620,8 @@ Adresa: %4
         <translation>R&amp;efoloseşte o adresă de primire (nu este recomandat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Quark.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Zur.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1977,8 +1977,8 @@ Adresa: %4
         <translation>Plăteşte doar taxa minimă de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Atenţie: Adresa quark nevalidă!</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Atenţie: Adresa zur nevalidă!</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2028,8 +2028,8 @@ Adresa: %4
         <translation>Aceasta este o tranzacţie normală.</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Adresa quark către care se face plata</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Adresa zur către care se face plata</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2060,8 +2060,8 @@ Adresa: %4
         <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>un mesaj a fost ataşat la quark: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua quark.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>un mesaj a fost ataşat la zur: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua zur.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2079,8 +2079,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Nucleul Quark se închide...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Nucleul Zur se închide...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2102,7 +2102,7 @@ Adresa: %4
         <translation>Puteţi semna mesaje cu adresa dvs. pentru a demostra ca sînteti proprietarul lor. Aveţi grijă să nu semnaţi nimic vag, deoarece atacurile de tip phishing vă pot păcăli să le transferaţi identitatea. Semnaţi numai declaraţiile detaliate cu care sînteti de acord.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
+        <source>The Zur address to sign the message with</source>
         <translation>Adresa cu care semnaţi mesajul</translation>
     </message>
     <message>
@@ -2134,8 +2134,8 @@ Adresa: %4
         <translation>Copiază semnatura curentă în clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Quark</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Zur</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2158,12 +2158,12 @@ Adresa: %4
         <translation>Introduceţi adresa de semnatură, mesajul (asiguraţi-vă că aţi copiat spaţiile, taburile etc. exact) şi semnatura dedesubt pentru a verifica mesajul. Aveţi grijă să nu citiţi mai mult în semnatură decît mesajul în sine, pentru a evita să fiţi păcăliţi de un atac de tip man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Introduceţi o adresă Quark</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Introduceţi o adresă Zur</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Quark specificată</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Zur specificată</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2229,12 +2229,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Nucleul Quark</translation>
+        <source>Zur Core</source>
+        <translation>Nucleul Zur</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Dezvoltatorii Nucleului Quark</translation>
+        <source>The Zur Core developers</source>
+        <translation>Dezvoltatorii Nucleului Zur</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2670,7 +2670,7 @@ Adresa: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Trimitere quark</translation>
+        <translation>Trimitere zur</translation>
     </message>
 </context>
 <context>
@@ -2771,8 +2771,8 @@ Adresa: %4
         <translation>Aceasta este o versiune de test preliminară - vă asumaţi riscul folosind-o - nu folosiţi pentru minerit sau aplicaţiile comercianţilor</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Nu se poate lega la %s pe acest calculator. Nucleul Quark probabil deja rulează.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Nu se poate lega la %s pe acest calculator. Nucleul Zur probabil deja rulează.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2943,8 +2943,8 @@ Adresa: %4
         <translation>A apărut o eroare la setarea adresei RPC %s portul %u pentru ascultare: %s</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>Nu se poate obţine blocarea folderului cu date %s. Nucleul Quark probabil deja rulează.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>Nu se poate obţine blocarea folderului cu date %s. Nucleul Zur probabil deja rulează.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -2967,8 +2967,8 @@ Adresa: %4
         <translation>Conectare prin proxy SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Copyright (C) 2009-%i Dezvoltatorii Quark</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Copyright (C) 2009-%i Dezvoltatorii Zur</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -2979,16 +2979,16 @@ Adresa: %4
         <translation>Eroare: Argument nesuportat -tor găsit, folosiţi -onion.</translation>
     </message>
     <message>
-        <source>Fee (in QRK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (în QRK/kB) de adăugat la tranzacţiile pe care le trimiteţi(implicit: %s)</translation>
+        <source>Fee (in ZUR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (în ZUR/kB) de adăugat la tranzacţiile pe care le trimiteţi(implicit: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Informaţie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Quark Core is shutting down.</source>
-        <translation>Nu s-a reuşit iniţierea verificării sănătăţii. Nucleul Quark se opreşte.</translation>
+        <source>Initialization sanity check failed. Zur Core is shutting down.</source>
+        <translation>Nu s-a reuşit iniţierea verificării sănătăţii. Nucleul Zur se opreşte.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3015,8 +3015,8 @@ Adresa: %4
         <translation>Trebuie să specificaţi un port cu -whitebind: '%s'</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>Opţiuni RPC SSL: (vedeţi Wiki Quark pentru intrucţiunile de setare SSL)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>Opţiuni RPC SSL: (vedeţi Wiki Zur pentru intrucţiunile de setare SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3087,8 +3087,8 @@ Adresa: %4
         <translation>Utilizator pentru conexiunile JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Portofelul necesită rescrierea: reporniţi Nucleul Quark pentru completare</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Portofelul necesită rescrierea: reporniţi Nucleul Zur pentru completare</translation>
     </message>
     <message>
         <source>Warning</source>

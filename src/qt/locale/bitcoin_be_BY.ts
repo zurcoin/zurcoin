@@ -66,11 +66,11 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
@@ -164,7 +164,7 @@
         <translation>Пацвердзіце шыфраванне гаманца</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
         <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ БІТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -188,8 +188,8 @@
         <translation>Увядзіце новы пароль для гаманца.&lt;br/&gt;Парольная фраза павинна складацца&lt;b&gt; не меньш чым з дзесяці сімвалаў&lt;/b&gt;, ці &lt;b&gt;больш чым з васьмі слоў&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core кліент</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core кліент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,7 +307,7 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
+        <source>Send coins to a Zur address</source>
         <translation>Даслаць манеты на Біткойн-адрас</translation>
     </message>
     <message>
@@ -331,7 +331,7 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Quark</source>
+        <source>Zur</source>
         <translation>Біткойн</translation>
     </message>
     <message>
@@ -347,8 +347,8 @@
         <translation>Атрымаць</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Паказаць інфармацыю аб Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Паказаць інфармацыю аб Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -363,11 +363,11 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
         <translation>Падпісаць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
         <translation>Спраўдзіць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
@@ -383,16 +383,16 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
         <translation>Запатрабаваць плацёж (генеруецца QR-код для біткойн URI)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>Аб Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>Аб Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -403,7 +403,7 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
+        <source>Open a zur: URI or payment request</source>
         <translation>Адкрыць біткойн: URI ці запыт плацяжу</translation>
     </message>
     <message>
@@ -411,12 +411,12 @@
         <translation>Опцыі каманднага радка</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Паказваць даведку Quark Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Паказваць даведку Zur Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n актыўнае злучэнне з Quark-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Quark-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Quark-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Quark-сецівам</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n актыўнае злучэнне з Zur-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Zur-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Zur-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Zur-сецівам</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -742,16 +742,16 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-біт)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Аб Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Аб Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -777,12 +777,12 @@ Address: %4
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Вітаем у Quark Core.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Вітаем у Zur Core.</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1033,12 +1033,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Распрацоўнікі Quark Core</translation>
+        <source>The Zur Core developers</source>
+        <translation>Распрацоўнікі Zur Core</translation>
     </message>
     <message>
         <source>[testnet]</source>

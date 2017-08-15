@@ -159,8 +159,8 @@
         <translation>Barra de herramientas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n conexión activa a la red Quark </numerusform><numerusform>%n conexiones activas a la red Quark</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n conexión activa a la red Zur </numerusform><numerusform>%n conexiones activas a la red Zur</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

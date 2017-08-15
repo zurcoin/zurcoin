@@ -66,12 +66,12 @@
         <translation>Adres odbiorczy</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tutaj znajdują się adresy Quark, na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tutaj znajdują się adresy Zur, na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To twoje adresy Quark, na które otrzymujesz płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To twoje adresy Zur, na które otrzymujesz płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Potwierdź szyfrowanie portfela</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE QUARK'Y&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE ZUR'Y&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Wprowadź nowe hasło do portfela.&lt;br/&gt;Proszę używać hasła złożonego z &lt;b&gt;10 lub więcej losowych znaków&lt;/b&gt; lub &lt;b&gt;ośmiu lub więcej słów.&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Program Quark zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich quarków przed kradzieżą przez wirusy mogące zainfekować Twój komputer.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Program Zur zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich zurów przed kradzieżą przez wirusy mogące zainfekować Twój komputer.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>Otwórz URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Rdzeń klienta Quark</translation>
+        <source>Zur Core client</source>
+        <translation>Rdzeń klienta Zur</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Ponowne indeksowanie bloków na dysku...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Wyślij monety na adres Quark</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Wyślij monety na adres Zur</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Zmienia opcje konfiguracji quarka</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Zmienia opcje konfiguracji zura</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>Odbie&amp;rz</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Pokaż informacje o Rdzeniu Quark</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Pokaż informacje o Rdzeniu Zur</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Szyfruj klucze prywatne, które są w Twoim portfelu</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
         <translation>Podpisz wiadomości swoim adresem aby udowodnić jego posiadanie</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem Quark.</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem Zur.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Pasek zakładek</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Rdzeń Quark</translation>
+        <source>Zur Core</source>
+        <translation>Rdzeń Zur</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Żądaj płatności (generuje kod QR oraz quark URI)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Żądaj płatności (generuje kod QR oraz zur URI)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;O Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;O Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Pokaż listę adresów i etykiet użytych do odbierania</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Otwórz URI quark: lub żądanie zapłaty</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Otwórz URI zur: lub żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Opcje linii komend</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Pokaż pomoc Rdzenia Quark, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Pokaż pomoc Rdzenia Zur, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktywne połączenie do sieci Quark</numerusform><numerusform>%n aktywne połączenia do sieci Quark</numerusform><numerusform>%n aktywnych połączeń do sieci Quark</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktywne połączenie do sieci Zur</numerusform><numerusform>%n aktywne połączenia do sieci Zur</numerusform><numerusform>%n aktywnych połączeń do sieci Zur</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -788,8 +788,8 @@ Adres: %4
         <translation>Wprowadzony adres "%1" już istnieje w książce adresowej.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Wprowadzony adres "%1" nie jest poprawnym adresem Quark.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Wprowadzony adres "%1" nie jest poprawnym adresem Zur.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -826,8 +826,8 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Rdzeń Quark</translation>
+        <source>Zur Core</source>
+        <translation>Rdzeń Zur</translation>
     </message>
     <message>
         <source>version</source>
@@ -838,8 +838,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>O Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>O Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -885,16 +885,16 @@ Adres: %4
         <translation>Witaj</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Witam w Quark Core</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Witam w Zur Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Ponieważ jest to pierwsze uruchomienie programu, możesz wybrać gdzie Quark Core będzie przechowywał swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Ponieważ jest to pierwsze uruchomienie programu, możesz wybrać gdzie Zur Core będzie przechowywał swoje dane.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków Quark. W wybranym katalogu musi być przynajmniej %1GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków Zur. W wybranym katalogu musi być przynajmniej %1GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -905,8 +905,8 @@ Adres: %4
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Rdzeń Quark</translation>
+        <source>Zur Core</source>
+        <translation>Rdzeń Zur</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -959,12 +959,12 @@ Adres: %4
         <translation>Główne</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Automatycznie uruchamia Quark po zalogowaniu do systemu.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Automatycznie uruchamia Zur po zalogowaniu do systemu.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>Uruchamiaj Quark wraz z zalogowaniem do &amp;systemu</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>Uruchamiaj Zur wraz z zalogowaniem do &amp;systemu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,16 +1039,16 @@ Adres: %4
         <translation>Wydaj niepotwierdzoną re&amp;sztę</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwiera port klienta Quark na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwiera port klienta Zur na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapuj port używając &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Połącz się z siecią Quark poprzez proxy SOCKS5.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Połącz się z siecią Zur poprzez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1095,8 +1095,8 @@ Adres: %4
         <translation>Język &amp;Użytkownika:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Można tu ustawić język interfejsu uzytkownika. Żeby ustawienie przyniosło skutek trzeba uruchomić ponownie Quark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Można tu ustawić język interfejsu uzytkownika. Żeby ustawienie przyniosło skutek trzeba uruchomić ponownie Zur.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią quark, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią zur, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1261,16 +1261,16 @@ Adres: %4
         <translation>Błąd żądania płatności</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Nie można uruchomić protokołu quark: kliknij-by-zapłacić</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Nie można uruchomić protokołu zur: kliknij-by-zapłacić</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>URL pobrania żądania zapłaty jest nieprawidłowe: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>URI nie może zostać przetworzony! Może to być spowodowane nieprawidłowym adresem Quark lub uszkodzonymi parametrami URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>URI nie może zostać przetworzony! Może to być spowodowane nieprawidłowym adresem Zur lub uszkodzonymi parametrami URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1339,8 +1339,8 @@ Adres: %4
         <translation>Kwota</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Wprowadź adres Quark (np. %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Wprowadź adres Zur (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1565,16 +1565,16 @@ Adres: %4
         <translation>Plik logowania debugowania</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otwórz plik logowania debugowania Quark z obecnego katalogu z danymi. Może to potrwać kilka sekund przy większych plikach.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otwórz plik logowania debugowania Zur z obecnego katalogu z danymi. Może to potrwać kilka sekund przy większych plikach.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Wyczyść konsolę</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Witam w konsoli Quark RPC.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Witam w konsoli Zur RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1644,8 +1644,8 @@ Adres: %4
         <translation>Użyj jednego z poprzednio użytych adresów odbiorczych. Podczas ponownego używania adresów występują problemy z bezpieczeństwem i prywatnością. Nie korzystaj z tej opcji, chyba że odtwarzasz żądanie płatności wykonane już wcześniej.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Opcjonalna wiadomość do dołączenia do żądania płatności, która będzie wyświetlana, gdy żądanie zostanie otwarte. Uwaga: wiadomość ta nie zostanie wysłana wraz z płatnością w sieci Quark.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Opcjonalna wiadomość do dołączenia do żądania płatności, która będzie wyświetlana, gdy żądanie zostanie otwarte. Uwaga: wiadomość ta nie zostanie wysłana wraz z płatnością w sieci Zur.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1881,8 +1881,8 @@ Adres: %4
         <translation>razem przynajmniej</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for quark transactions than the network can process.</source>
-        <translation>Zapłacenie tylko minimalnej opłaty jest nadal wystarczające, dopóki jest mniejszy wolumen transakcji niż miejsca w blokach. Należy jednak mieć świadomość, że może skończyć się to niezatwierdzeniem nigdy transakcji, gdy jest większe zapotrzebowanie na transakcje quarka niż sieć może przetworzyć.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for zur transactions than the network can process.</source>
+        <translation>Zapłacenie tylko minimalnej opłaty jest nadal wystarczające, dopóki jest mniejszy wolumen transakcji niż miejsca w blokach. Należy jednak mieć świadomość, że może skończyć się to niezatwierdzeniem nigdy transakcji, gdy jest większe zapotrzebowanie na transakcje zura niż sieć może przetworzyć.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2033,8 +2033,8 @@ Adres: %4
         <translation>Płac tylko minimalna opłatę %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Ostrzeżenie: nieprawidłowy adres Quark</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Ostrzeżenie: nieprawidłowy adres Zur</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2084,8 +2084,8 @@ Adres: %4
         <translation>To jest standardowa płatność</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Adres Quark gdzie wysłać płatność</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Adres Zur gdzie wysłać płatność</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2116,8 +2116,8 @@ Adres: %4
         <translation>Wprowadź etykietę dla tego adresu by dodać go do listy użytych adresów</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>Wiadomość, która została dołączona do URI quark:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci Quark.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>Wiadomość, która została dołączona do URI zur:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci Zur.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2135,8 +2135,8 @@ Adres: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark Core się zamyka...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur Core się zamyka...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2158,8 +2158,8 @@ Adres: %4
         <translation>Możesz podpisywać wiadomości swoimi adresami aby udowodnić, że jesteś ich właścicielem. Uważaj, aby nie podpisywać niczego co wzbudza Twoje podejrzenia, ponieważ ktoś może stosować phishing próbując nakłonić Cię do ich podpisania. Akceptuj i podpisuj tylko w pełni zrozumiałe komunikaty i wiadomości.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
-        <translation>Adres Quark, za pomocą którego podpisać wiadomość</translation>
+        <source>The Zur address to sign the message with</source>
+        <translation>Adres Zur, za pomocą którego podpisać wiadomość</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2190,7 +2190,7 @@ Adres: %4
         <translation>Kopiuje aktualny podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
+        <source>Sign the message to prove you own this Zur address</source>
         <translation>Podpisz wiadomość aby dowieść, że ten adres jest twój</translation>
     </message>
     <message>
@@ -2214,12 +2214,12 @@ Adres: %4
         <translation>Wpisz adres podpisu, wiadomość (upewnij się, że dokładnie skopiujesz wszystkie zakończenia linii, spacje, tabulacje itp.) oraz podpis poniżej by sprawdzić wiadomość. Uważaj by nie dodać więcej do podpisu niż do samej podpisywanej wiadomości by uniknąć ataku man-in-the-middle (człowiek pośrodku)</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Adres Quark, którym została podpisana wiadomość</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Adres Zur, którym została podpisana wiadomość</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem Quark.</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem Zur.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2285,12 +2285,12 @@ Adres: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Rdzeń Quark</translation>
+        <source>Zur Core</source>
+        <translation>Rdzeń Zur</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Deweloperzy Quark Core</translation>
+        <source>The Zur Core developers</source>
+        <translation>Deweloperzy Zur Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2835,8 +2835,8 @@ Adres: %4
         <translation>To jest testowa wersja - używaj na własne ryzyko - nie używaj do wykopywania oraz przy aplikacjach kupieckich</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Nie można przywiązać z portem %s na tym komputerze. Quark Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Nie można przywiązać z portem %s na tym komputerze. Zur Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3019,8 +3019,8 @@ Adres: %4
         <translation>Powiąż się z podanym adresem, aby nasłuchiwać połączenia JSON-RPC. Użyj notacji [host]:port dla IPv6. Ta opcja może być określona kilka razy (domyślnie: powiąż ze wszystkimi interfejsami)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>Nie można uzyskać blokady na katalogu z danymi %s. Rdzeń Quark najprawdopodobniej jest już uruchomiony.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>Nie można uzyskać blokady na katalogu z danymi %s. Rdzeń Zur najprawdopodobniej jest już uruchomiony.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3043,12 +3043,12 @@ Adres: %4
         <translation>Uruchom polecenie przy otrzymaniu odpowiedniego powiadomienia lub gdy zobaczymy naprawdę długie rozgałęzienie (%s w poleceniu jest podstawiane za komunikat)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Opłaty (w QRK/Kb) mniejsze niż ta będą traktowane jako bez opłaty przy propagowaniu (domyślnie: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Opłaty (w ZUR/Kb) mniejsze niż ta będą traktowane jako bez opłaty przy propagowaniu (domyślnie: %s)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Opłaty (w QRK/Kb) mniejsze niż ta będą traktowane jako bez opłaty przy tworzeniu transakcji (domyślnie: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Opłaty (w ZUR/Kb) mniejsze niż ta będą traktowane jako bez opłaty przy tworzeniu transakcji (domyślnie: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3087,27 +3087,27 @@ Adres: %4
         <translation>Program ten zawiera oprogramowanie stworzone przez OpenSSL Project do użycia w OpensSSL Toolkit &lt;https://www.openssl.org/&gt;, oprogramowanie kryptograficzne napisane przez Eric Young oraz oprogramowanie UPnP napisane przez Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use quarkd, or the -server option to quark-qt, you must set an rpcpassword in the configuration file:
+        <source>To use zurd, or the -server option to zur-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </source>
-        <translation>Aby korzystać z quarkd, lub opcji -server w quark-qt, musisz ustawić opcję rpcpassword w pliku konfiguracyjnym:
+        <translation>Aby korzystać z zurd, lub opcji -server w zur-qt, musisz ustawić opcję rpcpassword w pliku konfiguracyjnym:
 %s
 Zalecane jest użycie poniższego losowego hasła:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (nie musisz pamiętać tego hasła)
 Nazwa użytkownika i hasło NIE MOGĄ być takie same.
 Jeżeli ten plik nie istnieje, utwórz go z uprawnieniami tylko-do-odczytu przez właściciela.
 Zalecane jest także ustawienie opcji alertnotify, dzięki której będziesz powiadamiany o problemach;
-na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
+na przykład: alertnotify=echo %%s | mail -s "Alarm Zur" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3115,8 +3115,8 @@ na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
         <translation>Ostrzeżenie: -matxfee jest ustawione bardzo wysokie! Tak wysokie opłaty mogą być zapłacone w jednej transakcji.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Quark Core will not work properly.</source>
-        <translation>Ostrzeżenie: Proszę sprawdzić czy data i czas na Twoim komputerze są poprawne! Jeżeli ustawienia zegara będą złe, Quark Core nie będzie działał prawidłowo.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zur Core will not work properly.</source>
+        <translation>Ostrzeżenie: Proszę sprawdzić czy data i czas na Twoim komputerze są poprawne! Jeżeli ustawienia zegara będą złe, Zur Core nie będzie działał prawidłowo.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3135,16 +3135,16 @@ na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
         <translation>Połącz przez SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Nie można przetworzyć wartości -rpcbind %s jako adresu sieciowego</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quark Core</source>
-        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji Quark Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zur Core</source>
+        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji Zur Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3159,16 +3159,16 @@ na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
         <translation>Błąd: Znaleziono nieprawidłowy argument -tor, użyj -onion.</translation>
     </message>
     <message>
-        <source>Fee (in QRK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Prowizja (w QRK za kB) dodawana do wysyłanej transakcji (domyślnie: %s)</translation>
+        <source>Fee (in ZUR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Prowizja (w ZUR za kB) dodawana do wysyłanej transakcji (domyślnie: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Informacja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Quark Core is shutting down.</source>
-        <translation>Wstępna kontrola poprawności nie powiodła się. Quark Core wyłącza się.</translation>
+        <source>Initialization sanity check failed. Zur Core is shutting down.</source>
+        <translation>Wstępna kontrola poprawności nie powiodła się. Zur Core wyłącza się.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3199,8 +3199,8 @@ na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
         <translation>Opcje przekaźnikowe węzła:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>Opcje RPC SSL: (odwiedź Quark Wiki w celu uzyskania instrukcji)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>Opcje RPC SSL: (odwiedź Zur Wiki w celu uzyskania instrukcji)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3271,8 +3271,8 @@ na przykład: alertnotify=echo %%s | mail -s "Alarm Quark" admin@foo.com
         <translation>Nazwa użytkownika dla połączeń JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Portfel wymaga przepisania: zrestartuj Quarka aby ukończyć</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Portfel wymaga przepisania: zrestartuj Zura aby ukończyć</translation>
     </message>
     <message>
         <source>Warning</source>

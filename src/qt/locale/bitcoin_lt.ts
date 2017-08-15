@@ -148,8 +148,8 @@
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO QUARKUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO ZURUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -164,8 +164,8 @@
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti quarkų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti zurų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -271,8 +271,8 @@
         <translation>Atidaryti &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core klientas</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -283,12 +283,12 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Siųsti monetas Quark adresui</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Siųsti monetas Zur adresui</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Keisti quark konfigūracijos galimybes</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Keisti zur konfigūracijos galimybes</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -311,8 +311,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -327,8 +327,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Rodyti informaciją apie Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Rodyti informaciją apie Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -359,16 +359,16 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark branduolys</translation>
+        <source>Zur Core</source>
+        <translation>Zur branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;Apie Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;Apie Zur Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n Quark tinklo aktyvus ryšys</numerusform><numerusform>%n Quark tinklo aktyvūs ryšiai</numerusform><numerusform>%n Quark tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n Zur tinklo aktyvus ryšys</numerusform><numerusform>%n Zur tinklo aktyvūs ryšiai</numerusform><numerusform>%n Zur tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -627,8 +627,8 @@ Adresas: %4</translation>
         <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Quark adresas.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Zur adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -649,16 +649,16 @@ Adresas: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark branduolys</translation>
+        <source>Zur Core</source>
+        <translation>Zur branduolys</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Apie Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Apie Zur Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -692,12 +692,12 @@ Adresas: %4</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Sveiki atvykę į Quark Core.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Sveiki atvykę į Zur Core.</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark branduolys</translation>
+        <source>Zur Core</source>
+        <translation>Zur branduolys</translation>
     </message>
     <message>
         <source>Error</source>
@@ -718,20 +718,20 @@ Adresas: %4</translation>
         <translation>&amp;Pagrindinės</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
+        <source>Automatically start Zur after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Paleisti Quark programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Paleisti Zur programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Quark kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Zur kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -778,8 +778,8 @@ Adresas: %4</translation>
         <translation>Naudotojo sąsajos &amp;kalba:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Quark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Zur.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -980,8 +980,8 @@ Adresas: %4</translation>
         <translation>Išvalyti konsolę</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Sveiki atvykę į Quark RPC konsolę.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Sveiki atvykę į Zur RPC konsolę.</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -1249,7 +1249,7 @@ Adresas: %4</translation>
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
+        <source>Sign the message to prove you own this Zur address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1265,8 +1265,8 @@ Adresas: %4</translation>
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Quark adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Zur adresas</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1316,8 +1316,8 @@ Adresas: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark branduolys</translation>
+        <source>Zur Core</source>
+        <translation>Zur branduolys</translation>
     </message>
     <message>
         <source>[testnet]</source>

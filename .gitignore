@@ -1,12 +1,12 @@
 *.tar.gz
 
 *.exe
-src/quark
-src/quarkd
-src/quark-cli
-src/quark-tx
-src/test/test_quark
-src/qt/test/test_quark-qt
+src/zur
+src/zurd
+src/zur-cli
+src/zur-tx
+src/test/test_zur
+src/qt/test/test_zur-qt
 
 Makefile.in
 aclocal.m4
@@ -37,7 +37,7 @@ src/qt/test/moc*.cpp
 *.o
 *.o-*
 *.patch
-.quark
+.zur
 *.a
 *.pb.cc
 *.pb.h
@@ -52,12 +52,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-quark-qt
-Quark-Qt.app
+zur-qt
+Zur-Qt.app
 
 # Unit-tests
 Makefile.test
-quark-qt_test
+zur-qt_test
 
 # Resources cpp
 qrc_*.cpp

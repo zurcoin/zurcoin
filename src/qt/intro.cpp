@@ -181,7 +181,7 @@ void Intro::pickDataDirectory()
                 TryCreateDirectory(GUIUtil::qstringToBoostPath(dataDir));
                 break;
             } catch(fs::filesystem_error &e) {
-                QMessageBox::critical(0, tr("Quark Core"),
+                QMessageBox::critical(0, tr("Zur Core"),
                     tr("Error: Specified data directory \"%1\" cannot be created.").arg(dataDir));
                 /* fall through, back to choosing screen */
             }
@@ -190,8 +190,8 @@ void Intro::pickDataDirectory()
         settings.setValue("strDataDir", dataDir);
     }
     /* Only override -datadir if different from the default, to make it possible to
-     * override -datadir in the quarkcoin.conf file in the default data directory
-     * (to be consistent with quarkd behavior)
+     * override -datadir in the zurcoin.conf file in the default data directory
+     * (to be consistent with zurd behavior)
      */
     if(dataDir != getDefaultDataDirectory())
         SoftSetArg("-datadir", GUIUtil::qstringToBoostPath(dataDir).string()); // use OS locale for path setting

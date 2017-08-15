@@ -31,7 +31,7 @@ using namespace boost;
 using namespace std;
 
 #if defined(NDEBUG)
-# error "Quark cannot be compiled without assertions."
+# error "Zur cannot be compiled without assertions."
 #endif
 
 /**
@@ -1649,7 +1649,7 @@ bool FindUndoPos(CValidationState &state, int nFile, CDiskBlockPos &pos, unsigne
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("quark-scriptch");
+    RenameThread("zur-scriptch");
     scriptcheckqueue.Thread();
 }
 

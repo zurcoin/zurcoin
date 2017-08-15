@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Izvēlies adresi uz kuru sūtīt quarkcoins</translation>
+        <translation>Izvēlies adresi uz kuru sūtīt zurcoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt quarkcoins</translation>
+        <translation>Izvēlies adresi ar kuru saņemt zurcoins</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,12 +62,12 @@
         <translation>Saņemšanas adreses</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Šīs ir jūsu Quark adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Šīs ir jūsu Zur adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Šīs ir jūsu Quark adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Šīs ir jūsu Zur adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Apstiprināt maciņa šifrēšanu</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
-        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS QUARKS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
+        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS ZURS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -180,8 +180,8 @@
         <translation>Maciņš nošifrēts</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Quark aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Zur aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -287,8 +287,8 @@
         <translation>Atvērt &amp;URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core klients</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core klients</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,12 +299,12 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Nosūtīt bitkoinus uz Quark adresi</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Nosūtīt bitkoinus uz Zur adresi</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Mainīt Quark konfigurācijas uzstādījumus</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Mainīt Zur konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -327,8 +327,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -343,8 +343,8 @@
         <translation>&amp;Saņemt</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Parādīt informāciju par Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Parādīt informāciju par Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -359,12 +359,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Quark adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām Zur adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Quark adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Zur adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -383,28 +383,28 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un quark: URIs)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un zur: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>Par &amp;Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>Par &amp;Zur Core</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Atvērt quark URI vai maksājuma pieprasījumu</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Atvērt zur URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komandrindas iespējas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar Quark tīklu</numerusform><numerusform>%n aktīvs savienojums ar Quark tīklu</numerusform><numerusform>%n aktīvu savienojumu as Quark tīklu</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>%n aktīvu savienojumu ar Zur tīklu</numerusform><numerusform>%n aktīvs savienojums ar Zur tīklu</numerusform><numerusform>%n aktīvu savienojumu as Zur tīklu</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -704,8 +704,8 @@ Adrese: %4
         <translation>Nupat ierakstītā adrese "%1" jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Ierakstītā adrese "%1" nav derīga Quark adrese.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Ierakstītā adrese "%1" nav derīga Zur adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -738,8 +738,8 @@ Adrese: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -750,8 +750,8 @@ Adrese: %4
         <translation>(%1-biti)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Par Quark Core</translation>
+        <source>About Zur Core</source>
+        <translation>Par Zur Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -785,8 +785,8 @@ Adrese: %4
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Sveicināts Quark Core</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Sveicināts Zur Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -797,8 +797,8 @@ Adrese: %4
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -839,12 +839,12 @@ Adrese: %4
         <translation>&amp;Galvenais</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Automātiski sākt Quark pēc pieteikšanās sistēmā.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Automātiski sākt Zur pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>&amp;Sākt Quark reizē ar sistēmu</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>&amp;Sākt Zur reizē ar sistēmu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -892,15 +892,15 @@ Adrese: %4
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt quark &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt zur &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Quark klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt Zur klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -947,8 +947,8 @@ Adrese: %4
         <translation>Lietotāja interfeiss un &amp;valoda:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Quark pārstartēšanas.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Zur pārstartēšanas.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -960,7 +960,7 @@ Adrese: %4
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Quark kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt Zur kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -998,8 +998,8 @@ Adrese: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Quark tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Zur tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1049,8 +1049,8 @@ Adrese: %4
         <translation>Maksājumu pieprasījuma kļūda</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Nevar palaist Quark: nospied-lai-maksātu apstrādātāju</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Nevar palaist Zur: nospied-lai-maksātu apstrādātāju</translation>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1205,8 +1205,8 @@ Adrese: %4
         <translation>Notīrīt konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Laipni lūgti Quark RPC konsolē.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Laipni lūgti Zur RPC konsolē.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1390,7 +1390,7 @@ Adrese: %4
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Quark Kontroles Funkcijas</translation>
+        <translation>Zur Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1529,8 +1529,8 @@ Adrese: %4
         <translation>Transakcijas izveidošana neizdevās!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Brīdinājums: Nederīga Quark adrese</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Brīdinājums: Nederīga Zur adrese</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1611,8 +1611,8 @@ Adrese: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark Core tiek izslēgta...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1658,8 +1658,8 @@ Adrese: %4
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Quark adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Zur adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1741,12 +1741,12 @@ Adrese: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Quark Core izstrādātāji</translation>
+        <source>The Zur Core developers</source>
+        <translation>Zur Core izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>

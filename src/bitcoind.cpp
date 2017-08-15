@@ -21,8 +21,8 @@
  *
  * \section intro_sec Introduction
  *
- * This is the developer documentation of the reference client for an experimental new digital currency called Quark (http://www.bitcoin.org/),
- * which enables instant payments to anyone, anywhere in the world. Quark uses peer-to-peer technology to operate
+ * This is the developer documentation of the reference client for an experimental new digital currency called Zur (http://www.bitcoin.org/),
+ * which enables instant payments to anyone, anywhere in the world. Zur uses peer-to-peer technology to operate
  * with no central authority: managing transactions and issuing money are carried out collectively by the network.
  *
  * The software is a community-driven open source project, released under the MIT license.
@@ -63,13 +63,13 @@ bool AppInit(int argc, char* argv[])
     //
     // Parameters
     //
-    // If Qt is used, parameters/quarkcoin.conf are parsed in qt/bitcoin.cpp's main()
+    // If Qt is used, parameters/zurcoin.conf are parsed in qt/bitcoin.cpp's main()
     ParseParameters(argc, argv);
 
     // Process help and version before taking care about datadir
     if (mapArgs.count("-?") || mapArgs.count("-h") ||  mapArgs.count("-help") || mapArgs.count("-version"))
     {
-        std::string strUsage = _("Quark Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("Zur Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
 
         if (mapArgs.count("-version"))
         {
@@ -78,7 +78,7 @@ bool AppInit(int argc, char* argv[])
         else
         {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  quarkd [options]                     " + _("Start Quark Core Daemon") + "\n";
+                  "  zurd [options]                     " + _("Start Zur Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -110,19 +110,19 @@ bool AppInit(int argc, char* argv[])
         // Command-line RPC
         bool fCommandLine = false;
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "quark:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "zur:"))
                 fCommandLine = true;
 
         if (fCommandLine)
         {
-            fprintf(stderr, "Error: There is no RPC client functionality in quarkd anymore. Use the quark-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in zurd anymore. Use the zur-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon)
         {
-            fprintf(stdout, "Quark server starting\n");
+            fprintf(stdout, "Zur server starting\n");
 
             // Daemonize
             pid_t pid = fork();
@@ -179,7 +179,7 @@ int main(int argc, char* argv[])
 {
     SetupEnvironment();
 
-    // Connect quarkd signal handlers
+    // Connect zurd signal handlers
     noui_connect();
 
     return (AppInit(argc, argv) ? 0 : 1);

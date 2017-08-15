@@ -40,9 +40,9 @@ QString BitcoinUnits::id(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("qrk");
-    case mBTC: return QString("mqrk");
-    case uBTC: return QString("duqrk");
+    case BTC: return QString("zur");
+    case mBTC: return QString("mzur");
+    case uBTC: return QString("duzur");
     default: return QString("???");
     }
 }
@@ -51,9 +51,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("QRK");
-    case mBTC: return QString("mQRK");
-    case uBTC: return QString::fromUtf8("dμQRK");
+    case BTC: return QString("ZUR");
+    case mBTC: return QString("mZUR");
+    case uBTC: return QString::fromUtf8("dμZUR");
     default: return QString("???");
     }
 }
@@ -62,9 +62,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Quarks");
-    case mBTC: return QString("Milli-Quarks (1 / 1" THIN_SP_UTF8 "000)");
-    case uBTC: return QString("Deca-Micro-Quarks (1 / 1" THIN_SP_UTF8 "00" THIN_SP_UTF8 "000)");
+    case BTC: return QString("Zurs");
+    case mBTC: return QString("Milli-Zurs (1 / 1" THIN_SP_UTF8 "000)");
+    case uBTC: return QString("Deca-Micro-Zurs (1 / 1" THIN_SP_UTF8 "00" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }

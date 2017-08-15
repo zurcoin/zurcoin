@@ -66,12 +66,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши адреса Quark для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши адреса Zur для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши адреса Quark для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши адреса Zur для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,7 +160,7 @@
         <translation>Подтвердите шифрование бумажника</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
         <translation>Предупреждение: если вы зашифруете бумажник и потеряете пароль, вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ ВАШИ БИТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -184,7 +184,7 @@
         <translation>Введите новый пароль бумажника.&lt;br/&gt;Используйте пароль, состоящий из &lt;b&gt;десяти или более случайных символов&lt;/b&gt;, или &lt;b&gt;восьми или более слов&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши биткойны от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -291,8 +291,8 @@
         <translation>Открыть URI...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Core клиент</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Core клиент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -303,12 +303,12 @@
         <translation>Идёт переиндексация блоков на диске...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Отправить монеты на адрес Quark</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Отправить монеты на адрес Zur</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Изменить параметры конфигурации Quark</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Изменить параметры конфигурации Zur</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -331,7 +331,7 @@
         <translation>Проверить сообщение...</translation>
     </message>
     <message>
-        <source>Quark</source>
+        <source>Zur</source>
         <translation>Биткойн</translation>
     </message>
     <message>
@@ -347,8 +347,8 @@
         <translation>Получить</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Показать информацию о Quark Core</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Показать информацию о Zur Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -363,12 +363,12 @@
         <translation>Зашифровать приватные ключи, принадлежащие вашему бумажнику</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Quark, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом Zur, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Quark</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Zur</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -387,16 +387,16 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Запросить платежи (создаёт QR-коды и quark: ссылки)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Запросить платежи (создаёт QR-коды и zur: ссылки)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>&amp;О Quark Core</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>&amp;О Zur Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -407,16 +407,16 @@
         <translation>Показать список использованных адресов получения и меток</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Открыть quark: URI или запрос платежа</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Открыть zur: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Параметры командной строки</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Показать помощь по Quark Core и получить список доступных параметров командной строки.</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Показать помощь по Zur Core и получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -458,15 +458,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     </context>
 <context>
@@ -553,8 +553,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Core</translation>
+        <source>Zur Core</source>
+        <translation>Zur Core</translation>
     </message>
     </context>
 <context>

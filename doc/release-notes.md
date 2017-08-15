@@ -1,4 +1,4 @@
-Quark Core version 0.10.4 is now available from:
+Zur Core version 0.10.4 is now available from:
 
   <https://bitcoin.org/bin/bitcoin-core-0.10.4/>
 
@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/quark-project/quark/issues>
+  <https://github.com/zur-project/zur/issues>
 
 Upgrading and downgrading
 =========================
@@ -18,15 +18,15 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (which might take a few minutes for older versions), then run the
-installer (on Windows) or just copy over /Applications/Quark-Qt (on Mac) or
-quarkd/quark-qt (on Linux).
+installer (on Windows) or just copy over /Applications/Zur-Qt (on Mac) or
+zurd/zur-qt (on Linux).
 
 Downgrade warning
 ------------------
 
 Because release 0.10.0 and later makes use of headers-first synchronization and
 parallel block download (see further), the block files and databases are not
-backwards-compatible with pre-0.10 versions of Quark Core or other software:
+backwards-compatible with pre-0.10 versions of Zur Core or other software:
 
 * Blocks will be stored on disk out of order (in the order they are
 received, really), which makes it incompatible with some tools or
@@ -79,13 +79,13 @@ found at the URLs below:
 - Block versions over the last 2,000 blocks showing the days to the
   earliest possible BIP65 consensus-enforced block: <http://bitcoin.sipa.be/ver-2k.png>
 
-**Notice to miners:** Quark Core’s block templates are now for
+**Notice to miners:** Zur Core’s block templates are now for
 version 4 blocks only, and any mining software relying on its
 getblocktemplate must be updated in parallel to use libblkmaker either
 version FIXME or any version from FIXME onward.
 
 - If you are solo mining, this will affect you the moment you upgrade
-  Quark Core, which must be done prior to BIP65 achieving its 951/1001
+  Zur Core, which must be done prior to BIP65 achieving its 951/1001
   status.
 
 - If you are mining with the stratum mining protocol: this does not
@@ -101,7 +101,7 @@ Windows bug fix for corrupted UTXO database on unclean shutdowns
 ----------------------------------------------------------------
 
 Several Windows users reported that they often need to reindex the
-entire blockchain after an unclean shutdown of Quark Core on Windows
+entire blockchain after an unclean shutdown of Zur Core on Windows
 (or an unclean shutdown of Windows itself). Although unclean shutdowns
 remain unsafe, this release no longer relies on memory-mapped files for
 the UTXO database, which significantly reduced the frequency of unclean

@@ -47,11 +47,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Quark yollanacak adresi seç</translation>
+        <translation>Zur yollanacak adresi seç</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Quark alınacak adresi seç</translation>
+        <translation>Zur alınacak adresi seç</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -66,12 +66,12 @@
         <translation>Alım adresleri</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız Quark adreslerinizdir. Quark yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your Zur addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız Zur adreslerinizdir. Zur yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Quark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödeme almak için kullanacağınız Quark adreslerinizdir. Her muamele için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
+        <source>These are your Zur addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödeme almak için kullanacağınız Zur adreslerinizdir. Her muamele için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,7 +164,7 @@
         <translation>Cüzdan şifrelenmesini teyit eder</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZURS&lt;/b&gt;!</source>
         <translation>Uyarı: Eğer cüzdanınızı şifrelerseniz ve parolanızı kaybederseniz, &lt;b&gt;TÜM BİTCOİNLERİNİZİ KAYBEDERSİNİZ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -188,8 +188,8 @@
         <translation>Cüzdan için yeni parolayı giriniz.&lt;br/&gt;Lütfen &lt;b&gt;on ya da daha fazla rastgele karakter&lt;/b&gt; veya &lt;b&gt;sekiz ya da daha fazla kelime&lt;/b&gt; içeren bir parola kullanınız.</translation>
     </message>
     <message>
-        <source>Quark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için Quark şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Quarklerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>Zur will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zurcoins from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için Zur şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Zurlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@
         <translation>&amp;URI aç...</translation>
     </message>
     <message>
-        <source>Quark Core client</source>
-        <translation>Quark Çekirdeği istemcisi</translation>
+        <source>Zur Core client</source>
+        <translation>Zur Çekirdeği istemcisi</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,12 +307,12 @@
         <translation>Diskteki bloklar yeniden endeksleniyor...</translation>
     </message>
     <message>
-        <source>Send coins to a Quark address</source>
-        <translation>Bir Quark adresine Quark yolla</translation>
+        <source>Send coins to a Zur address</source>
+        <translation>Bir Zur adresine Zur yolla</translation>
     </message>
     <message>
-        <source>Modify configuration options for Quark</source>
-        <translation>Quark seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for Zur</source>
+        <translation>Zur seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,8 +335,8 @@
         <translation>Mesaj &amp;kontrol et...</translation>
     </message>
     <message>
-        <source>Quark</source>
-        <translation>Quark</translation>
+        <source>Zur</source>
+        <translation>Zur</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -351,8 +351,8 @@
         <translation>&amp;Al</translation>
     </message>
     <message>
-        <source>Show information about Quark Core</source>
-        <translation>Quark Çekirdeği hakkında bilgi göster</translation>
+        <source>Show information about Zur Core</source>
+        <translation>Zur Çekirdeği hakkında bilgi göster</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,12 +367,12 @@
         <translation>Cüzdanınızın özel anahtarlarını şifrele</translation>
     </message>
     <message>
-        <source>Sign messages with your Quark addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Quark adresleri ile imzala</translation>
+        <source>Sign messages with your Zur addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Zur adresleri ile imzala</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Quark addresses</source>
-        <translation>Belirtilen Quark adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified Zur addresses</source>
+        <translation>Belirtilen Zur adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,16 +391,16 @@
         <translation>Sekme araç çubuğu</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Çekirdeği</translation>
+        <source>Zur Core</source>
+        <translation>Zur Çekirdeği</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and quark: URIs)</source>
-        <translation>Ödeme talep et (QR kodu ve quark URI'si oluşturur)</translation>
+        <source>Request payments (generates QR codes and zur: URIs)</source>
+        <translation>Ödeme talep et (QR kodu ve zur URI'si oluşturur)</translation>
     </message>
     <message>
-        <source>&amp;About Quark Core</source>
-        <translation>Quark Çekirdeği &amp;hakkında</translation>
+        <source>&amp;About Zur Core</source>
+        <translation>Zur Çekirdeği &amp;hakkında</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,20 +411,20 @@
         <translation>Kullanılmış alım adresleri ve etiketlerin listesini göster</translation>
     </message>
     <message>
-        <source>Open a quark: URI or payment request</source>
-        <translation>Bir quark: bağlantısı ya da ödeme talebi aç</translation>
+        <source>Open a zur: URI or payment request</source>
+        <translation>Bir zur: bağlantısı ya da ödeme talebi aç</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komut satırı seçenekleri</translation>
     </message>
     <message>
-        <source>Show the Quark Core help message to get a list with possible Quark command-line options</source>
-        <translation>Quark komut satırı seçeneklerinin listesini elde etmek için Quark Çekirdeği yardım mesajını göster</translation>
+        <source>Show the Zur Core help message to get a list with possible Zur command-line options</source>
+        <translation>Zur komut satırı seçeneklerinin listesini elde etmek için Zur Çekirdeği yardım mesajını göster</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Quark network</source>
-        <translation><numerusform>Quark şebekesine %n faal bağlantı</numerusform><numerusform>Quark şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Zur network</source>
+        <translation><numerusform>Zur şebekesine %n faal bağlantı</numerusform><numerusform>Zur şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -526,7 +526,7 @@ Adres: %4
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Quark Seçimi</translation>
+        <translation>Zur Seçimi</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -788,8 +788,8 @@ Adres: %4
         <translation>Girilen "%1" adresi hâlihazırda adres defterinde mevcuttur.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Quark address.</source>
-        <translation>Girilen "%1" adresi geçerli bir Quark adresi değildir.</translation>
+        <source>The entered address "%1" is not a valid Zur address.</source>
+        <translation>Girilen "%1" adresi geçerli bir Zur adresi değildir.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -826,8 +826,8 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Çekirdeği</translation>
+        <source>Zur Core</source>
+        <translation>Zur Çekirdeği</translation>
     </message>
     <message>
         <source>version</source>
@@ -838,8 +838,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Quark Core</source>
-        <translation>Quark Çekirdeği hakkında</translation>
+        <source>About Zur Core</source>
+        <translation>Zur Çekirdeği hakkında</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -885,16 +885,16 @@ Adres: %4
         <translation>Hoş geldiniz</translation>
     </message>
     <message>
-        <source>Welcome to Quark Core.</source>
-        <translation>Quark Çekirdeğine hoş geldiniz.</translation>
+        <source>Welcome to Zur Core.</source>
+        <translation>Zur Çekirdeğine hoş geldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Quark Core will store its data.</source>
-        <translation>Bu programı ilk kez başlattığınızdan dolayı Quark Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zur Core will store its data.</source>
+        <translation>Bu programı ilk kez başlattığınızdan dolayı Zur Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>Quark Core will download and store a copy of the Quark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Quark çekirdeği Quark blok zincirinin bir kopyasını indirip saklayacaktır. Asgari %1GB bouyutunda veri bu klasörde saklanacak ve zamanla bu boyut artacaktır. Cüzdan da bu klasörde saklanacaktır. </translation>
+        <source>Zur Core will download and store a copy of the Zur block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zur çekirdeği Zur blok zincirinin bir kopyasını indirip saklayacaktır. Asgari %1GB bouyutunda veri bu klasörde saklanacak ve zamanla bu boyut artacaktır. Cüzdan da bu klasörde saklanacaktır. </translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -905,8 +905,8 @@ Adres: %4
         <translation>Özel bir veri klasörü kullan:</translation>
     </message>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Çekirdeği</translation>
+        <source>Zur Core</source>
+        <translation>Zur Çekirdeği</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -959,12 +959,12 @@ Adres: %4
         <translation>&amp;Esas ayarlar</translation>
     </message>
     <message>
-        <source>Automatically start Quark after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında Quark'i otomatik olarak başlat.</translation>
+        <source>Automatically start Zur after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında Zur'i otomatik olarak başlat.</translation>
     </message>
     <message>
-        <source>&amp;Start Quark on system login</source>
-        <translation>Quark'i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start Zur on system login</source>
+        <translation>Zur'i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,16 +1039,16 @@ Adres: %4
         <translation>Teyit edilmemiş para üstünü &amp;harca</translation>
     </message>
     <message>
-        <source>Automatically open the Quark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Quark istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the Zur client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide Zur istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portları &amp;UPnP kullanarak haritala</translation>
     </message>
     <message>
-        <source>Connect to the Quark network through a SOCKS5 proxy.</source>
-        <translation>Quark şebekesine SOCKS5 vekil sunucusu vasıtasıyla bağlan.</translation>
+        <source>Connect to the Zur network through a SOCKS5 proxy.</source>
+        <translation>Zur şebekesine SOCKS5 vekil sunucusu vasıtasıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1095,8 +1095,8 @@ Adres: %4
         <translation>Kullanıcı arayüzü &amp;lisanı:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Quark.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Quark tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zur.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Zur tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1104,7 +1104,7 @@ Adres: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Quark gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>Zur gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1154,7 +1154,7 @@ Adres: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Quark network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zur network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1261,16 +1261,16 @@ Adres: %4
         <translation>Ödeme talebi hatası</translation>
     </message>
     <message>
-        <source>Cannot start quark: click-to-pay handler</source>
-        <translation>Quark başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start zur: click-to-pay handler</source>
+        <translation>Zur başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Ödeme talebini alma URL'i geçersiz: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Quark address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir Quark adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Zur address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir Zur adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1339,8 +1339,8 @@ Adres: %4
         <translation>Meblağ</translation>
     </message>
     <message>
-        <source>Enter a Quark address (e.g. %1)</source>
-        <translation>Bir Quark adresi giriniz (mesela %1)</translation>
+        <source>Enter a Zur address (e.g. %1)</source>
+        <translation>Bir Zur adresi giriniz (mesela %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1565,16 +1565,16 @@ Adres: %4
         <translation>Hata ayıklama kütük dosyası</translation>
     </message>
     <message>
-        <source>Open the Quark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen Quark hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the Zur debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen Zur hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Konsolu temizle</translation>
     </message>
     <message>
-        <source>Welcome to the Quark RPC console.</source>
-        <translation>Quark RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Zur RPC console.</source>
+        <translation>Zur RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1648,8 +1648,8 @@ Adres: %4
         <translation>&amp;Hâlihazırda bulunan bir alım adresini kullan (önerilmez)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Quark network.</source>
-        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir mesaj. Not: Bu mesaj ödeme ile birlikte Quark şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zur network.</source>
+        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir mesaj. Not: Bu mesaj ödeme ile birlikte Zur şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1798,7 +1798,7 @@ Adres: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Quark yolla</translation>
+        <translation>Zur yolla</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1885,8 +1885,8 @@ Adres: %4
         <translation>toplam asgari</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for quark transactions than the network can process.</source>
-        <translation>Asgari ücreti ödemek, bloklarda boşluktan daha az muamele hacmi olduğu sürece bir sorun çıkarmaz. Fakat şebekenin işleyecebileceğinden daha çok quark muameleleri talebi olduğunda bunun asla teyit edilmeyen bir muamele olabileceğinin farkında olmalısınız.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for zur transactions than the network can process.</source>
+        <translation>Asgari ücreti ödemek, bloklarda boşluktan daha az muamele hacmi olduğu sürece bir sorun çıkarmaz. Fakat şebekenin işleyecebileceğinden daha çok zur muameleleri talebi olduğunda bunun asla teyit edilmeyen bir muamele olabileceğinin farkında olmalısınız.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2037,8 +2037,8 @@ Adres: %4
         <translation>Tahmini olarak %1 blok içinde teyide başlanacaktır.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Quark address</source>
-        <translation>Uyarı: geçersiz Quark adresi</translation>
+        <source>Warning: Invalid Zur address</source>
+        <translation>Uyarı: geçersiz Zur adresi</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2088,8 +2088,8 @@ Adres: %4
         <translation>Bu, normal bir ödemedir.</translation>
     </message>
     <message>
-        <source>The Quark address to send the payment to</source>
-        <translation>Ödemenin yollanacağı Quark adresi</translation>
+        <source>The Zur address to send the payment to</source>
+        <translation>Ödemenin yollanacağı Zur adresi</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2120,8 +2120,8 @@ Adres: %4
         <translation>Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the quark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Quark network.</source>
-        <translation>Quark: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj Quark şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>A message that was attached to the zur: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zur network.</source>
+        <translation>Zur: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj Zur şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2139,8 +2139,8 @@ Adres: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Quark Core is shutting down...</source>
-        <translation>Quark Çekirdeği kapanıyor...</translation>
+        <source>Zur Core is shutting down...</source>
+        <translation>Zur Çekirdeği kapanıyor...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2162,8 +2162,8 @@ Adres: %4
         <translation>Bir adresin sizin olduğunu ispatlamak için adresinizle mesaj imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
-        <source>The Quark address to sign the message with</source>
-        <translation>Mesajın imzalanmasında kullanılacak Quark adresi</translation>
+        <source>The Zur address to sign the message with</source>
+        <translation>Mesajın imzalanmasında kullanılacak Zur adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2194,8 +2194,8 @@ Adres: %4
         <translation>Güncel imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Quark address</source>
-        <translation>Bu Quark adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this Zur address</source>
+        <translation>Bu Zur adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2218,12 +2218,12 @@ Adres: %4
         <translation>İmza için kullanılan adresi, mesajı (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıda giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya mâni olmak için imzadan, imzalı mesajın içeriğini aşan bir anlam çıkarmamaya dikkat ediniz.</translation>
     </message>
     <message>
-        <source>The Quark address the message was signed with</source>
-        <translation>Mesajın imzalanmasında kullanılan Quark adresi</translation>
+        <source>The Zur address the message was signed with</source>
+        <translation>Mesajın imzalanmasında kullanılan Zur adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Quark address</source>
-        <translation>Belirtilen Quark adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified Zur address</source>
+        <translation>Belirtilen Zur adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2289,12 +2289,12 @@ Adres: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Quark Core</source>
-        <translation>Quark Çekirdeği</translation>
+        <source>Zur Core</source>
+        <translation>Zur Çekirdeği</translation>
     </message>
     <message>
-        <source>The Quark Core developers</source>
-        <translation>Quark Çekirdeği geliştiricileri</translation>
+        <source>The Zur Core developers</source>
+        <translation>Zur Çekirdeği geliştiricileri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2420,7 +2420,7 @@ Adres: %4
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan quark'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan zur'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2738,7 +2738,7 @@ Adres: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Quark yolla</translation>
+        <translation>Zur yolla</translation>
     </message>
 </context>
 <context>
@@ -2840,11 +2840,11 @@ Adres: %4
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - quark oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - zur oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Quark Core is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Quark Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. Zur Core is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Zur Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3027,8 +3027,8 @@ Adres: %4
         <translation>Belirtilen adrese bağlan ve JSON RPC bağlantıları için dinlemeye geç. IPv6 için [makine]:port imlasını kullanınız. Bu seçenek birden çok kez belirtilebilir (varsayılan: tüm arayüzlere bağlan)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Quark Core is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. Quark Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zur Core is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. Zur Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
@@ -3051,12 +3051,12 @@ Adres: %4
         <translation>İlgili bir uyarı alındığında ya da gerçekten uzun bir çatallama gördüğümüzde komutu çalıştır (komuttaki %s mesaj ile değiştirilir)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kb başına QRK olarak bundan düşük ücretler aktarım için sıfır değerinde ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kb başına ZUR olarak bundan düşük ücretler aktarım için sıfır değerinde ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
-        <source>Fees (in QRK/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kb başına QRK olarak bundan düşük ücretler muamele oluşturulması için sıfır değerinde ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in ZUR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kb başına ZUR olarak bundan düşük ücretler muamele oluşturulması için sıfır değerinde ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3088,34 +3088,34 @@ Adres: %4
     </message>
     <message>
         <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>Etkinse quark oluşuturulmasına atanan iş parçacığı sayısını ayarla (-1 = tüm çekirdekler, varsayılan: %d)</translation>
+        <translation>Etkinse zur oluşuturulmasına atanan iş parçacığı sayısını ayarla (-1 = tüm çekirdekler, varsayılan: %d)</translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
         <translation>Bu ürün OpenSSL projesi tarafından OpenSSL araç takımı (http://www.openssl.org/) için geliştirilen yazılımlar, Eric Young (eay@cryptsoft.com) tarafından hazırlanmış şifreleme yazılımları ve Thomas Bernard tarafından programlanmış UPnP yazılımı içerir.</translation>
     </message>
     <message>
-        <source>To use quarkd, or the -server option to quark-qt, you must set an rpcpassword in the configuration file:
+        <source>To use zurd, or the -server option to zur-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </source>
-        <translation>quarkd ya da quark-qt ile -server seçeneğini kullanmak için yapılandırma dosyasında bir rpc parolası belirtmeniz gerekir:
+        <translation>zurd ya da zur-qt ile -server seçeneğini kullanmak için yapılandırma dosyasında bir rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=quarkrpc
+rpcuser=zurrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
+mesela: alertnotify=echo %%s | mail -s "Zur Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3123,8 +3123,8 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>İkaz: -maxtxfee çok yüksek bir değere ayarlanmış! Bu denli yüksek ücretler tek bir muamelede ödenebilir.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Quark Core will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın saat ve tarihinin doğru olduğunu kontol ediniz! Saatinizde gecikme varsa Quark Çekirdeği doğru şekilde çalışamaz.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zur Core will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın saat ve tarihinin doğru olduğunu kontol ediniz! Saatinizde gecikme varsa Zur Çekirdeği doğru şekilde çalışamaz.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3143,16 +3143,16 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>SOCKS5 vekil sunucusu vasıtasıyla bağlan</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Quark Core and Quark Core Developers</source>
-        <translation>Telif hakkı 2009-%i Quark Çekirdeği Geliştiricileri</translation>
+        <source>Copyright (C) 2009-%i The Zur Core and Zur Core Developers</source>
+        <translation>Telif hakkı 2009-%i Zur Çekirdeği Geliştiricileri</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>-rpcbind değeri %s şebeke adresi olarak ayrıştırılamadı</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Quark Core</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata: Cüzdan Quark Çekirdeğinin daha yeni bir sürümünü gerektirmektedir</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zur Core</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata: Cüzdan Zur Çekirdeğinin daha yeni bir sürümünü gerektirmektedir</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3163,16 +3163,16 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Hata: Deskteklenmeyen -tor argümanı bulundu, -onion kullanınız.</translation>
     </message>
     <message>
-        <source>Fee (in QRK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Yolladığınız muamelelere kB başına QRK olarak eklenecek ücret (varsayılan: %s)</translation>
+        <source>Fee (in ZUR/kB) to add to transactions you send (default: %s)</source>
+        <translation>Yolladığınız muamelelere kB başına ZUR olarak eklenecek ücret (varsayılan: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Bilgi</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Quark Core is shutting down.</source>
-        <translation>Başlatma sınaması başarısız oldu. Quark Çekirdeği kapatılıyor.</translation>
+        <source>Initialization sanity check failed. Zur Core is shutting down.</source>
+        <translation>Başlatma sınaması başarısız oldu. Zur Çekirdeği kapatılıyor.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3207,8 +3207,8 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>Düğüm röle seçenekleri:</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Quark Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL seçenekleri: (SSL kurulumu yönergeleri için Quark vikisine bakınız)</translation>
+        <source>RPC SSL options: (see the Zur Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL seçenekleri: (SSL kurulumu yönergeleri için Zur vikisine bakınız)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3279,8 +3279,8 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
         <translation>JSON-RPC bağlantıları için kullanıcı ismi</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Quark Core to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekmektedir: tamamlamak için Quark Çekirdeğini yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart Zur Core to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekmektedir: tamamlamak için Zur Çekirdeğini yeniden başlatın</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3404,7 +3404,7 @@ mesela: alertnotify=echo %%s | mail -s "Quark Alert" admin@foo.com
     </message>
     <message>
         <source>Generate coins (default: %u)</source>
-        <translation>Quark oluştur (varsayılan: %u)</translation>
+        <translation>Zur oluştur (varsayılan: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
