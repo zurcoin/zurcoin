@@ -1183,11 +1183,11 @@ void static PruneOrphanBlocks()
 }
 
 static const int64_t nGenesisBlockRewardCoin = 1 * COIN;
-static const int64_t nBlockRewardStartCoin = 2048 * COIN;
-static const int64_t nBlockRewardMinimumCoin = 1 * COIN;
+static const int64_t nBlockRewardStartCoin = 42 * COIN;
+static const int64_t nBlockRewardMinimumCoin = 0 * COIN;
 
-static const int64_t nTargetTimespan = 10 * 60; // 10 minutes
-static const int64_t nTargetSpacing = 30; // 30 seconds
+static const int64_t nTargetTimespan = 14 * 42;
+static const int64_t nTargetSpacing = 42;
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing; // 20 blocks
 
 int64_t GetBlockValue(int nHeight, int64_t nFees)
@@ -1199,15 +1199,7 @@ int64_t GetBlockValue(int nHeight, int64_t nFees)
     
     int64_t nSubsidy = nBlockRewardStartCoin;
 
-    // Subsidy is cut in half every 60480 blocks (21 days)
-    nSubsidy >>= min((nHeight / 60480), 63);
-    
-    // Minimum subsidy
-    if (nSubsidy < nBlockRewardMinimumCoin)
-    {
-        nSubsidy = nBlockRewardMinimumCoin;
-    }
-
+    nSubsidy >>= (nHeight / 1500000 );
     return nSubsidy + nFees;
 }
 
@@ -1276,7 +1268,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
     // Limit adjustment step
     int64_t nActualTimespan = pindexLast->GetBlockTime() - pindexFirst->GetBlockTime();
     LogPrintf("  nActualTimespan = %d before bounds\n", nActualTimespan);
-    int64_t LimUp = nTargetTimespan * 100 / 110; // 110% up
+    int64_t LimUp = nTargetTimespan * 100 / 120; // 110% up
     int64_t LimDown = nTargetTimespan * 2; // 200% down
     if (nActualTimespan < LimUp)
         nActualTimespan = LimUp;

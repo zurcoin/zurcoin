@@ -1111,7 +1111,7 @@ void ThreadMapPort()
             }
         }
 
-        string strDesc = "Quark " + FormatFullVersion();
+        string strDesc = "Zurcoin " + FormatFullVersion();
 
         try {
             while (true) {
