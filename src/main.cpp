@@ -1232,8 +1232,8 @@ bool ReadBlockFromDisk(CBlock& block, const CBlockIndex* pindex)
 }
 
 static const int64_t nGenesisBlockRewardCoin = 1 * COIN;
-static const int64_t nBlockRewardStartCoin = 2048 * COIN;
-static const int64_t nBlockRewardMinimumCoin = 1 * COIN;
+static const int64_t nBlockRewardStartCoin = 42 * COIN;
+static const int64_t nBlockRewardMinimumCoin = 0 * COIN;
 
 CAmount GetBlockValue(int nHeight, const CAmount& nFees)
 {
@@ -1243,15 +1243,7 @@ CAmount GetBlockValue(int nHeight, const CAmount& nFees)
     }
 
     CAmount nSubsidy = nBlockRewardStartCoin;
-
-    // Subsidy is cut in half every 60480 blocks (21 days)
-    nSubsidy >>= min((nHeight / Params().SubsidyHalvingInterval()), 63);
-
-    // Minimum subsidy
-    if (nSubsidy < nBlockRewardMinimumCoin)
-    {
-        nSubsidy = nBlockRewardMinimumCoin;
-    }
+    nSubsidy >>= (nHeight / 1500000 );
 
     return nSubsidy + nFees;
 }
