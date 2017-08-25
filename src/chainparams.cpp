@@ -149,7 +149,7 @@ public:
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == hashMainGenesisBlock);
 
-        vSeeds.push_back(CDNSSeedData("50.116.55.60", "50.116.55.60"));
+        //vSeeds.push_back(CDNSSeedData("50.116.55.60", "50.116.55.60"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(69);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(9);
