@@ -2552,14 +2552,16 @@ bool ContextualCheckBlockHeader(const CBlockHeader& block, CValidationState& sta
         return state.DoS(100, error("%s : forked chain older than last checkpoint (height %d)", __func__, nHeight));
 
     // Reject block.nVersion<=112 blocks when 95% (75% on testnet) of the network has upgraded:
-    if (block.nVersion <= 112 &&
+    // disabled until all pools and users updated wallet version:
+    /*
+        if (block.nVersion <= 112 &&
         CBlockIndex::IsSuperMajority(113, pindexPrev,
         Params().RejectBlockOutdatedMajority(), Params().ToCheckBlockUpgradeMajority()))
     {
         return state.Invalid(error("%s : rejected nVersion(%d)<=112 block", __func__, block.nVersion),
                              REJECT_OBSOLETE, "bad-version");
     }
-
+    */
     return true;
 }
 
