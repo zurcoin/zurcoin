@@ -1,0 +1,22 @@
+[Unit]
+Description=Zurcoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=zurcoin
+Group=zurcoin
+
+Type=forking
+PIDFile=/var/lib/zurcoind/zurcoind.pid
+ExecStart=/usr/bin/zurcoind -daemon -pid=/var/lib/zurcoind/zurcoind.pid \
+-conf=/etc/zurcoin/zurcoin.conf -datadir=/var/lib/zurcoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
