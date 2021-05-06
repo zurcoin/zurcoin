@@ -1,9 +1,13 @@
+![](share/pixmaps/bitcoin256.png)
+
 Zurcoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/zurcoin/bitcoin.svg?branch=master)](https://travis-ci.org/zurcoin/zurcoin)
 
 https://zurcoin.org
+
+![](share/pixmaps/nsis-header.bmp)
 
 What is Zurcoin?
 ----------------
